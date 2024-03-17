@@ -1,0 +1,8434 @@
+[
+  {
+    "itemCode": 1402009,
+    "itemName": "나무 야구 방망이"
+  },
+  {
+    "itemCode": 1402001,
+    "itemName": "목검"
+  },
+  {
+    "itemCode": 1402018,
+    "itemName": "환목검"
+  },
+  {
+    "itemCode": 1402000,
+    "itemName": "양손검"
+  },
+  {
+    "itemCode": 1402008,
+    "itemName": "클러디"
+  },
+  {
+    "itemCode": 1402002,
+    "itemName": "왕푸"
+  },
+  {
+    "itemCode": 1402006,
+    "itemName": "하이랜더"
+  },
+  {
+    "itemCode": 1402007,
+    "itemName": "쟈드"
+  },
+  {
+    "itemCode": 1402003,
+    "itemName": "호검"
+  },
+  {
+    "itemCode": 1402011,
+    "itemName": "그리스"
+  },
+  {
+    "itemCode": 1402012,
+    "itemName": "그륜힐"
+  },
+  {
+    "itemCode": 1402015,
+    "itemName": "그레이트 로헨"
+  },
+  {
+    "itemCode": 1402004,
+    "itemName": "청운검"
+  },
+  {
+    "itemCode": 1402016,
+    "itemName": "라 투핸더"
+  },
+  {
+    "itemCode": 1402005,
+    "itemName": "참마도"
+  },
+  {
+    "itemCode": 1402035,
+    "itemName": "참화도"
+  },
+  {
+    "itemCode": 1402036,
+    "itemName": "드래곤 클레이모어"
+  },
+  {
+    "itemCode": 1402046,
+    "itemName": "타임리스 니플하임"
+  },
+  {
+    "itemCode": 1302017,
+    "itemName": "하늘색 우산"
+  },
+  {
+    "itemCode": 1302000,
+    "itemName": "검"
+  },
+  {
+    "itemCode": 1302007,
+    "itemName": "카알 대검"
+  },
+  {
+    "itemCode": 1302005,
+    "itemName": "사브르"
+  },
+  {
+    "itemCode": 1302006,
+    "itemName": "쿠크리"
+  },
+  {
+    "itemCode": 1302002,
+    "itemName": "바이킹 소드"
+  },
+  {
+    "itemCode": 1302003,
+    "itemName": "일룬"
+  },
+  {
+    "itemCode": 1302008,
+    "itemName": "글라디우스"
+  },
+  {
+    "itemCode": 1302013,
+    "itemName": "붉은 채찍"
+  },
+  {
+    "itemCode": 1302004,
+    "itemName": "커틀러스"
+  },
+  {
+    "itemCode": 1302063,
+    "itemName": "화염의 카타나"
+  },
+  {
+    "itemCode": 1302049,
+    "itemName": "광선채찍"
+  },
+  {
+    "itemCode": 1302009,
+    "itemName": "트라우스"
+  },
+  {
+    "itemCode": 1302010,
+    "itemName": "쥬얼 쿠아다라"
+  },
+  {
+    "itemCode": 1302011,
+    "itemName": "네오코라"
+  },
+  {
+    "itemCode": 1302012,
+    "itemName": "레드 카타나"
+  },
+  {
+    "itemCode": 1302018,
+    "itemName": "아츠"
+  },
+  {
+    "itemCode": 1302023,
+    "itemName": "프라우테"
+  },
+  {
+    "itemCode": 1302056,
+    "itemName": "스파타"
+  },
+  {
+    "itemCode": 1302059,
+    "itemName": "드래곤 카라벨라"
+  },
+  {
+    "itemCode": 1302081,
+    "itemName": "타임리스 엑서큐서너스"
+  },
+  {
+    "itemCode": 1312004,
+    "itemName": "손 도끼"
+  },
+  {
+    "itemCode": 1312000,
+    "itemName": "양날 도끼"
+  },
+  {
+    "itemCode": 1302015,
+    "itemName": "영웅의 글라디우스"
+  },
+  {
+    "itemCode": 1302016,
+    "itemName": "노란색 우산"
+  },
+  {
+    "itemCode": 1402010,
+    "itemName": "알루미늄 야구 방망이"
+  },
+  {
+    "itemCode": 1312001,
+    "itemName": "전투 도끼"
+  },
+  {
+    "itemCode": 1312016,
+    "itemName": "콘트라 엑스"
+  },
+  {
+    "itemCode": 1312003,
+    "itemName": "미스릴 도끼"
+  },
+  {
+    "itemCode": 1312005,
+    "itemName": "파이어 잭"
+  },
+  {
+    "itemCode": 1312006,
+    "itemName": "당커"
+  },
+  {
+    "itemCode": 1312007,
+    "itemName": "블루 카운터"
+  },
+  {
+    "itemCode": 1312008,
+    "itemName": "벅"
+  },
+  {
+    "itemCode": 1312009,
+    "itemName": "호크헤드"
+  },
+  {
+    "itemCode": 1312010,
+    "itemName": "미하일"
+  },
+  {
+    "itemCode": 1312011,
+    "itemName": "리프 엑스"
+  },
+  {
+    "itemCode": 1312015,
+    "itemName": "비펜니스"
+  },
+  {
+    "itemCode": 1312030,
+    "itemName": "토마호크"
+  },
+  {
+    "itemCode": 1312031,
+    "itemName": "드래곤 엑스"
+  },
+  {
+    "itemCode": 1312037,
+    "itemName": "타임리스 버디슈"
+  },
+  {
+    "itemCode": 1412001,
+    "itemName": "쇠 도끼"
+  },
+  {
+    "itemCode": 1412012,
+    "itemName": "철제 도끼"
+  },
+  {
+    "itemCode": 1412002,
+    "itemName": "강철 도끼"
+  },
+  {
+    "itemCode": 1412000,
+    "itemName": "양손 도끼"
+  },
+  {
+    "itemCode": 1412006,
+    "itemName": "버크"
+  },
+  {
+    "itemCode": 1412004,
+    "itemName": "니암"
+  },
+  {
+    "itemCode": 1412005,
+    "itemName": "버드빌"
+  },
+  {
+    "itemCode": 1412003,
+    "itemName": "라이징"
+  },
+  {
+    "itemCode": 1412007,
+    "itemName": "샤이닝"
+  },
+  {
+    "itemCode": 1412009,
+    "itemName": "헬리오스"
+  },
+  {
+    "itemCode": 1412010,
+    "itemName": "클로니안 엑스"
+  },
+  {
+    "itemCode": 1412021,
+    "itemName": "타바르"
+  },
+  {
+    "itemCode": 1412026,
+    "itemName": "드래곤 배틀엑스"
+  },
+  {
+    "itemCode": 1412033,
+    "itemName": "타임리스 타바르진"
+  },
+  {
+    "itemCode": 1322005,
+    "itemName": "몽둥이"
+  },
+  {
+    "itemCode": 1322007,
+    "itemName": "가죽 핸드백"
+  },
+  {
+    "itemCode": 1322000,
+    "itemName": "메이스"
+  },
+  {
+    "itemCode": 1322002,
+    "itemName": "강철 메이스"
+  },
+  {
+    "itemCode": 1322008,
+    "itemName": "007 가방"
+  },
+  {
+    "itemCode": 1322009,
+    "itemName": "뚜러"
+  },
+  {
+    "itemCode": 1322004,
+    "itemName": "퓨전 메이스"
+  },
+  {
+    "itemCode": 1322014,
+    "itemName": "워해머"
+  },
+  {
+    "itemCode": 1322027,
+    "itemName": "프라이팬"
+  },
+  {
+    "itemCode": 1322003,
+    "itemName": "막대 사탕"
+  },
+  {
+    "itemCode": 1322015,
+    "itemName": "호스맨즈"
+  },
+  {
+    "itemCode": 1322016,
+    "itemName": "젝커"
+  },
+  {
+    "itemCode": 1322017,
+    "itemName": "너클메이스"
+  },
+  {
+    "itemCode": 1322018,
+    "itemName": "타무스"
+  },
+  {
+    "itemCode": 1322019,
+    "itemName": "스튬"
+  },
+  {
+    "itemCode": 1322020,
+    "itemName": "모던스튬"
+  },
+  {
+    "itemCode": 1322028,
+    "itemName": "골든해머"
+  },
+  {
+    "itemCode": 1322029,
+    "itemName": "루인해머"
+  },
+  {
+    "itemCode": 1322031,
+    "itemName": "세계의 돼지도감"
+  },
+  {
+    "itemCode": 1322045,
+    "itemName": "배틀해머"
+  },
+  {
+    "itemCode": 1322052,
+    "itemName": "드래곤 메이스"
+  },
+  {
+    "itemCode": 1322060,
+    "itemName": "타임리스 알라르간도"
+  },
+  {
+    "itemCode": 1422000,
+    "itemName": "나무 망치"
+  },
+  {
+    "itemCode": 1422002,
+    "itemName": "강철구 망치"
+  },
+  {
+    "itemCode": 1422006,
+    "itemName": "곡괭이"
+  },
+  {
+    "itemCode": 1422003,
+    "itemName": "사각 망치"
+  },
+  {
+    "itemCode": 1422004,
+    "itemName": "몽키 스페너"
+  },
+  {
+    "itemCode": 1422001,
+    "itemName": "미스릴 모울"
+  },
+  {
+    "itemCode": 1422008,
+    "itemName": "빅해머"
+  },
+  {
+    "itemCode": 1422007,
+    "itemName": "타이탄"
+  },
+  {
+    "itemCode": 1422005,
+    "itemName": "골든 모울"
+  },
+  {
+    "itemCode": 1422009,
+    "itemName": "플루튬"
+  },
+  {
+    "itemCode": 1422010,
+    "itemName": "호프만"
+  },
+  {
+    "itemCode": 1422012,
+    "itemName": "크롬"
+  },
+  {
+    "itemCode": 1422013,
+    "itemName": "레오마이트"
+  },
+  {
+    "itemCode": 1422027,
+    "itemName": "골든 스미스해머"
+  },
+  {
+    "itemCode": 1422028,
+    "itemName": "드래곤 플레임"
+  },
+  {
+    "itemCode": 1422037,
+    "itemName": "타임리스 벨로체"
+  },
+  {
+    "itemCode": 1432000,
+    "itemName": "창"
+  },
+  {
+    "itemCode": 1432001,
+    "itemName": "포크 창"
+  },
+  {
+    "itemCode": 1432008,
+    "itemName": "물고기 작살"
+  },
+  {
+    "itemCode": 1432002,
+    "itemName": "삼지창"
+  },
+  {
+    "itemCode": 1432003,
+    "itemName": "나카마키"
+  },
+  {
+    "itemCode": 1432005,
+    "itemName": "제코"
+  },
+  {
+    "itemCode": 1432039,
+    "itemName": "낚싯대"
+  },
+  {
+    "itemCode": 1432004,
+    "itemName": "장팔사모"
+  },
+  {
+    "itemCode": 1432006,
+    "itemName": "십자창"
+  },
+  {
+    "itemCode": 1432007,
+    "itemName": "스페판"
+  },
+  {
+    "itemCode": 1432010,
+    "itemName": "호진공창"
+  },
+  {
+    "itemCode": 1432011,
+    "itemName": "페어프로즌"
+  },
+  {
+    "itemCode": 1432030,
+    "itemName": "피나카"
+  },
+  {
+    "itemCode": 1432038,
+    "itemName": "드래곤 팔티잔"
+  },
+  {
+    "itemCode": 1442039,
+    "itemName": "냉동참치"
+  },
+  {
+    "itemCode": 1442000,
+    "itemName": "폴암"
+  },
+  {
+    "itemCode": 1442006,
+    "itemName": "아이언 볼"
+  },
+  {
+    "itemCode": 1442007,
+    "itemName": "팬텀"
+  },
+  {
+    "itemCode": 1442004,
+    "itemName": "지저분한 대걸레"
+  },
+  {
+    "itemCode": 1442001,
+    "itemName": "미스릴 폴암"
+  },
+  {
+    "itemCode": 1442003,
+    "itemName": "도끼 폴암"
+  },
+  {
+    "itemCode": 1442009,
+    "itemName": "크레센트"
+  },
+  {
+    "itemCode": 1442005,
+    "itemName": "구룡도"
+  },
+  {
+    "itemCode": 1442010,
+    "itemName": "방천극"
+  },
+  {
+    "itemCode": 1442008,
+    "itemName": "황룡도"
+  },
+  {
+    "itemCode": 1442019,
+    "itemName": "월아산"
+  },
+  {
+    "itemCode": 1442020,
+    "itemName": "핼버드"
+  },
+  {
+    "itemCode": 1442044,
+    "itemName": "제드버그"
+  },
+  {
+    "itemCode": 1442045,
+    "itemName": "드래곤 핼버드"
+  },
+  {
+    "itemCode": 1452002,
+    "itemName": "워 보우"
+  },
+  {
+    "itemCode": 1452003,
+    "itemName": "합금 활"
+  },
+  {
+    "itemCode": 1452001,
+    "itemName": "사냥꾼의 활"
+  },
+  {
+    "itemCode": 1452000,
+    "itemName": "배틀 보우"
+  },
+  {
+    "itemCode": 1452005,
+    "itemName": "라이덴"
+  },
+  {
+    "itemCode": 1452006,
+    "itemName": "레드 바이퍼"
+  },
+  {
+    "itemCode": 1452007,
+    "itemName": "발터2000"
+  },
+  {
+    "itemCode": 1452008,
+    "itemName": "올림푸스"
+  },
+  {
+    "itemCode": 1452004,
+    "itemName": "봉황위궁"
+  },
+  {
+    "itemCode": 1452010,
+    "itemName": "블루 힌켈"
+  },
+  {
+    "itemCode": 1452009,
+    "itemName": "레드 힌켈"
+  },
+  {
+    "itemCode": 1452011,
+    "itemName": "골든 힌켈"
+  },
+  {
+    "itemCode": 1452014,
+    "itemName": "골든 아룬드"
+  },
+  {
+    "itemCode": 1452013,
+    "itemName": "파이어 아룬드"
+  },
+  {
+    "itemCode": 1452012,
+    "itemName": "마린 아룬드"
+  },
+  {
+    "itemCode": 1452015,
+    "itemName": "다크 아룬드"
+  },
+  {
+    "itemCode": 1452017,
+    "itemName": "메투스"
+  },
+  {
+    "itemCode": 1452021,
+    "itemName": "다크 니스록"
+  },
+  {
+    "itemCode": 1452020,
+    "itemName": "골든 니스록"
+  },
+  {
+    "itemCode": 1452019,
+    "itemName": "화이트 니스록"
+  },
+  {
+    "itemCode": 1452044,
+    "itemName": "드래곤 샤인보우"
+  },
+  {
+    "itemCode": 1462001,
+    "itemName": "석궁"
+  },
+  {
+    "itemCode": 1462002,
+    "itemName": "전투 석궁"
+  },
+  {
+    "itemCode": 1462003,
+    "itemName": "발란쉐"
+  },
+  {
+    "itemCode": 1462000,
+    "itemName": "산양 석궁"
+  },
+  {
+    "itemCode": 1462004,
+    "itemName": "이글크로"
+  },
+  {
+    "itemCode": 1462005,
+    "itemName": "헤클러"
+  },
+  {
+    "itemCode": 1462006,
+    "itemName": "실버 크로우"
+  },
+  {
+    "itemCode": 1462007,
+    "itemName": "로우어"
+  },
+  {
+    "itemCode": 1462008,
+    "itemName": "골든 크로우"
+  },
+  {
+    "itemCode": 1462009,
+    "itemName": "그로스야거"
+  },
+  {
+    "itemCode": 1462010,
+    "itemName": "마린 샬리트"
+  },
+  {
+    "itemCode": 1462012,
+    "itemName": "골든 샬리트"
+  },
+  {
+    "itemCode": 1462011,
+    "itemName": "파이어 샬리트"
+  },
+  {
+    "itemCode": 1462013,
+    "itemName": "다크 샬리트"
+  },
+  {
+    "itemCode": 1462018,
+    "itemName": "카사 크로우"
+  },
+  {
+    "itemCode": 1462015,
+    "itemName": "화이트 네쉐르"
+  },
+  {
+    "itemCode": 1462016,
+    "itemName": "골든 네쉐르"
+  },
+  {
+    "itemCode": 1462017,
+    "itemName": "다크 네쉐르"
+  },
+  {
+    "itemCode": 1462039,
+    "itemName": "드래곤 샤인크로스"
+  },
+  {
+    "itemCode": 1372005,
+    "itemName": "우드 완드"
+  },
+  {
+    "itemCode": 1372006,
+    "itemName": "하드우드 완드"
+  },
+  {
+    "itemCode": 1372002,
+    "itemName": "메탈 완드"
+  },
+  {
+    "itemCode": 1372004,
+    "itemName": "아이스 완드"
+  },
+  {
+    "itemCode": 1372003,
+    "itemName": "미스릴 완드"
+  },
+  {
+    "itemCode": 1372001,
+    "itemName": "위저드 완드"
+  },
+  {
+    "itemCode": 1372012,
+    "itemName": "크리스탈 완드"
+  },
+  {
+    "itemCode": 1372000,
+    "itemName": "페어리 완드"
+  },
+  {
+    "itemCode": 1372007,
+    "itemName": "크로미"
+  },
+  {
+    "itemCode": 1372033,
+    "itemName": "하트 완드"
+  },
+  {
+    "itemCode": 1372014,
+    "itemName": "이블테일러"
+  },
+  {
+    "itemCode": 1372015,
+    "itemName": "엔젤윙즈"
+  },
+  {
+    "itemCode": 1372016,
+    "itemName": "피닉스 완드"
+  },
+  {
+    "itemCode": 1372009,
+    "itemName": "마기코라스"
+  },
+  {
+    "itemCode": 1372010,
+    "itemName": "다이몬의 완드"
+  },
+  {
+    "itemCode": 1372032,
+    "itemName": "드래곤 완드"
+  },
+  {
+    "itemCode": 1382000,
+    "itemName": "나무 스태프"
+  },
+  {
+    "itemCode": 1382003,
+    "itemName": "사파이어 스태프"
+  },
+  {
+    "itemCode": 1382005,
+    "itemName": "에메랄드 스태프"
+  },
+  {
+    "itemCode": 1382004,
+    "itemName": "고목나무 스태프"
+  },
+  {
+    "itemCode": 1382002,
+    "itemName": "위저드 스태프"
+  },
+  {
+    "itemCode": 1382017,
+    "itemName": "써클윈드 스태프"
+  },
+  {
+    "itemCode": 1382018,
+    "itemName": "페탈 스태프"
+  },
+  {
+    "itemCode": 1382019,
+    "itemName": "홀 스태프"
+  },
+  {
+    "itemCode": 1382001,
+    "itemName": "아크 스태프"
+  },
+  {
+    "itemCode": 1382006,
+    "itemName": "쏜즈"
+  },
+  {
+    "itemCode": 1382007,
+    "itemName": "이블윙즈"
+  },
+  {
+    "itemCode": 1382010,
+    "itemName": "레이든 스태프"
+  },
+  {
+    "itemCode": 1382008,
+    "itemName": "케이그"
+  },
+  {
+    "itemCode": 1382035,
+    "itemName": "블루마린"
+  },
+  {
+    "itemCode": 1382036,
+    "itemName": "드래곤 스태프"
+  },
+  {
+    "itemCode": 1332005,
+    "itemName": "도루코 대거"
+  },
+  {
+    "itemCode": 1332007,
+    "itemName": "후루츠 대거"
+  },
+  {
+    "itemCode": 1332000,
+    "itemName": "삼각 자마다르"
+  },
+  {
+    "itemCode": 1332006,
+    "itemName": "필드 대거"
+  },
+  {
+    "itemCode": 1332002,
+    "itemName": "삼지 자마다르"
+  },
+  {
+    "itemCode": 1332008,
+    "itemName": "넙치검"
+  },
+  {
+    "itemCode": 1332013,
+    "itemName": "스팅어"
+  },
+  {
+    "itemCode": 1332010,
+    "itemName": "아이언 대거"
+  },
+  {
+    "itemCode": 1332004,
+    "itemName": "쌍지단도"
+  },
+  {
+    "itemCode": 1332012,
+    "itemName": "리프 크로"
+  },
+  {
+    "itemCode": 1332009,
+    "itemName": "카스"
+  },
+  {
+    "itemCode": 1332001,
+    "itemName": "반월 자마다르"
+  },
+  {
+    "itemCode": 1332020,
+    "itemName": "태극부채"
+  },
+  {
+    "itemCode": 1332014,
+    "itemName": "게파트"
+  },
+  {
+    "itemCode": 1332011,
+    "itemName": "베즐러드"
+  },
+  {
+    "itemCode": 1332031,
+    "itemName": "드래곤 토네일"
+  },
+  {
+    "itemCode": 1332016,
+    "itemName": "차"
+  },
+  {
+    "itemCode": 1332003,
+    "itemName": "신기타"
+  },
+  {
+    "itemCode": 1332017,
+    "itemName": "스네이크"
+  },
+  {
+    "itemCode": 1332015,
+    "itemName": "게타"
+  },
+  {
+    "itemCode": 1332019,
+    "itemName": "금강저"
+  },
+  {
+    "itemCode": 1332018,
+    "itemName": "칸디네"
+  },
+  {
+    "itemCode": 1332022,
+    "itemName": "카타르"
+  },
+  {
+    "itemCode": 1332023,
+    "itemName": "용천권"
+  },
+  {
+    "itemCode": 1332027,
+    "itemName": "바키트"
+  },
+  {
+    "itemCode": 1332026,
+    "itemName": "커세어"
+  },
+  {
+    "itemCode": 1332052,
+    "itemName": "블러드 대거"
+  },
+  {
+    "itemCode": 1332051,
+    "itemName": "골드 트윈 나이프"
+  },
+  {
+    "itemCode": 1332050,
+    "itemName": "드래곤 크리스"
+  },
+  {
+    "itemCode": 1332049,
+    "itemName": "드래곤 칸자르"
+  },
+  {
+    "itemCode": 1472000,
+    "itemName": "가니어"
+  },
+  {
+    "itemCode": 1472001,
+    "itemName": "스틸 티탄즈"
+  },
+  {
+    "itemCode": 1472004,
+    "itemName": "브론즈 이고르"
+  },
+  {
+    "itemCode": 1472006,
+    "itemName": "아다만티움 이고르"
+  },
+  {
+    "itemCode": 1472007,
+    "itemName": "메바"
+  },
+  {
+    "itemCode": 1472010,
+    "itemName": "아다만티움 가즈"
+  },
+  {
+    "itemCode": 1472009,
+    "itemName": "미스릴 가즈"
+  },
+  {
+    "itemCode": 1472013,
+    "itemName": "다크 가디언"
+  },
+  {
+    "itemCode": 1472011,
+    "itemName": "브론즈 가디언"
+  },
+  {
+    "itemCode": 1472012,
+    "itemName": "실버 가디언"
+  },
+  {
+    "itemCode": 1472015,
+    "itemName": "블러드 보닌"
+  },
+  {
+    "itemCode": 1472016,
+    "itemName": "아다만티움 보닌"
+  },
+  {
+    "itemCode": 1472014,
+    "itemName": "스틸 보닌"
+  },
+  {
+    "itemCode": 1472017,
+    "itemName": "다크 보닌"
+  },
+  {
+    "itemCode": 1472021,
+    "itemName": "다크 슬레인"
+  },
+  {
+    "itemCode": 1472020,
+    "itemName": "사파이어 슬레인"
+  },
+  {
+    "itemCode": 1472019,
+    "itemName": "블러드 슬레인"
+  },
+  {
+    "itemCode": 1472018,
+    "itemName": "스틸 슬레인"
+  },
+  {
+    "itemCode": 1472025,
+    "itemName": "다크 기간틱"
+  },
+  {
+    "itemCode": 1472024,
+    "itemName": "사파이어 기간틱"
+  },
+  {
+    "itemCode": 1472023,
+    "itemName": "블러드 기간틱"
+  },
+  {
+    "itemCode": 1472022,
+    "itemName": "브론즈 기간틱"
+  },
+  {
+    "itemCode": 1472029,
+    "itemName": "흑갑충"
+  },
+  {
+    "itemCode": 1472028,
+    "itemName": "청갑충"
+  },
+  {
+    "itemCode": 1472027,
+    "itemName": "녹갑충"
+  },
+  {
+    "itemCode": 1472026,
+    "itemName": "황갑충"
+  },
+  {
+    "itemCode": 1472031,
+    "itemName": "코브라스티어"
+  },
+  {
+    "itemCode": 1472033,
+    "itemName": "캐스터스"
+  },
+  {
+    "itemCode": 1472053,
+    "itemName": "레드 크리븐"
+  },
+  {
+    "itemCode": 1472051,
+    "itemName": "드래곤 그린 슬레브"
+  },
+  {
+    "itemCode": 1472052,
+    "itemName": "드래곤 퍼플 슬레브"
+  },
+  {
+    "itemCode": 1040006,
+    "itemName": "하얀 면 나시"
+  },
+  {
+    "itemCode": 1041002,
+    "itemName": "하얀 탱크탑"
+  },
+  {
+    "itemCode": 1041010,
+    "itemName": "초록 반팔 면티"
+  },
+  {
+    "itemCode": 1040002,
+    "itemName": "하얀 반팔 면티"
+  },
+  {
+    "itemCode": 1040010,
+    "itemName": "회색 반팔 면티"
+  },
+  {
+    "itemCode": 1041011,
+    "itemName": "빨간 줄나시"
+  },
+  {
+    "itemCode": 1040017,
+    "itemName": "회갈색 수련복"
+  },
+  {
+    "itemCode": 1040004,
+    "itemName": "파란색 수련복"
+  },
+  {
+    "itemCode": 1041016,
+    "itemName": "그린 아르미네"
+  },
+  {
+    "itemCode": 1041015,
+    "itemName": "블랙 아르미네"
+  },
+  {
+    "itemCode": 1040032,
+    "itemName": "홍몽"
+  },
+  {
+    "itemCode": 1040038,
+    "itemName": "블루 로리카 아머"
+  },
+  {
+    "itemCode": 1040015,
+    "itemName": "브라운 로리카 아머"
+  },
+  {
+    "itemCode": 1040031,
+    "itemName": "청몽"
+  },
+  {
+    "itemCode": 1041014,
+    "itemName": "오렌지 스퀘이머"
+  },
+  {
+    "itemCode": 1040033,
+    "itemName": "흑몽"
+  },
+  {
+    "itemCode": 1041064,
+    "itemName": "블루베리 스퀘이머"
+  },
+  {
+    "itemCode": 1041007,
+    "itemName": "그린 아벨린"
+  },
+  {
+    "itemCode": 1040071,
+    "itemName": "그린 아발란체"
+  },
+  {
+    "itemCode": 1041061,
+    "itemName": "옐로우 아벨린"
+  },
+  {
+    "itemCode": 1040008,
+    "itemName": "브라운 아발란체"
+  },
+  {
+    "itemCode": 1041012,
+    "itemName": "빨간 줄무늬 티셔츠"
+  },
+  {
+    "itemCode": 1041004,
+    "itemName": "분홍 별무늬 티셔츠"
+  },
+  {
+    "itemCode": 1040013,
+    "itemName": "파란색 원라인 티셔츠"
+  },
+  {
+    "itemCode": 1040014,
+    "itemName": "주황색 스포츠 티셔츠"
+  },
+  {
+    "itemCode": 1041017,
+    "itemName": "퍼플 아리안느"
+  },
+  {
+    "itemCode": 1041018,
+    "itemName": "그린 아리안느"
+  },
+  {
+    "itemCode": 1041026,
+    "itemName": "옐로우 아리안느"
+  },
+  {
+    "itemCode": 1041025,
+    "itemName": "핑크 아리안느"
+  },
+  {
+    "itemCode": 1041063,
+    "itemName": "그레이 아벨 래더아머"
+  },
+  {
+    "itemCode": 1040034,
+    "itemName": "흑야"
+  },
+  {
+    "itemCode": 1041045,
+    "itemName": "황야"
+  },
+  {
+    "itemCode": 1041062,
+    "itemName": "옐로우 아벨 래더아머"
+  },
+  {
+    "itemCode": 1041008,
+    "itemName": "그린 아벨 래더아머"
+  },
+  {
+    "itemCode": 1040007,
+    "itemName": "초록색 래더 후드웨어"
+  },
+  {
+    "itemCode": 1040037,
+    "itemName": "브론즈 코퍼럴"
+  },
+  {
+    "itemCode": 1040035,
+    "itemName": "청야"
+  },
+  {
+    "itemCode": 1040011,
+    "itemName": "은색 래더 후드웨어"
+  },
+  {
+    "itemCode": 1041044,
+    "itemName": "적야"
+  },
+  {
+    "itemCode": 1040009,
+    "itemName": "스틸 코퍼럴"
+  },
+  {
+    "itemCode": 1040019,
+    "itemName": "주황색 가람"
+  },
+  {
+    "itemCode": 1040018,
+    "itemName": "검은색 가람"
+  },
+  {
+    "itemCode": 1041029,
+    "itemName": "검은색 가람"
+  },
+  {
+    "itemCode": 1041030,
+    "itemName": "붉은색 가람"
+  },
+  {
+    "itemCode": 1040020,
+    "itemName": "푸른색 가람"
+  },
+  {
+    "itemCode": 1041031,
+    "itemName": "보라색 가람"
+  },
+  {
+    "itemCode": 1041021,
+    "itemName": "브라운 라멜"
+  },
+  {
+    "itemCode": 1041013,
+    "itemName": "그린 쉬버메일"
+  },
+  {
+    "itemCode": 1040043,
+    "itemName": "빨간색 파오"
+  },
+  {
+    "itemCode": 1041039,
+    "itemName": "분홍색 친파오"
+  },
+  {
+    "itemCode": 1041019,
+    "itemName": "레드 라멜"
+  },
+  {
+    "itemCode": 1040039,
+    "itemName": "레드 서전트"
+  },
+  {
+    "itemCode": 1040044,
+    "itemName": "검정색 파오"
+  },
+  {
+    "itemCode": 1041006,
+    "itemName": "노란 반팔 면티"
+  },
+  {
+    "itemCode": 1041027,
+    "itemName": "레드 쉬버메일"
+  },
+  {
+    "itemCode": 1041028,
+    "itemName": "퍼플 쉬버메일"
+  },
+  {
+    "itemCode": 1040012,
+    "itemName": "블루 서전트"
+  },
+  {
+    "itemCode": 1041040,
+    "itemName": "파란색 친파오"
+  },
+  {
+    "itemCode": 1040042,
+    "itemName": "파란색 파오"
+  },
+  {
+    "itemCode": 1041020,
+    "itemName": "그린 라멜"
+  },
+  {
+    "itemCode": 1040003,
+    "itemName": "갈색 하드래더"
+  },
+  {
+    "itemCode": 1041003,
+    "itemName": "빨간색 친파오"
+  },
+  {
+    "itemCode": 1040041,
+    "itemName": "다크 마스터 서전트"
+  },
+  {
+    "itemCode": 1041032,
+    "itemName": "그린 이너스 체인메일"
+  },
+  {
+    "itemCode": 1040048,
+    "itemName": "브라운 스니크"
+  },
+  {
+    "itemCode": 1041024,
+    "itemName": "레드 샤크"
+  },
+  {
+    "itemCode": 1041033,
+    "itemName": "레드 이너스 체인메일"
+  },
+  {
+    "itemCode": 1040040,
+    "itemName": "실버 마스터 서전트"
+  },
+  {
+    "itemCode": 1040024,
+    "itemName": "블루 이너스 체인메일"
+  },
+  {
+    "itemCode": 1041059,
+    "itemName": "스카이 스니클리스"
+  },
+  {
+    "itemCode": 1040016,
+    "itemName": "오리할콘 마스터 서전트"
+  },
+  {
+    "itemCode": 1041022,
+    "itemName": "블루 샤크"
+  },
+  {
+    "itemCode": 1041023,
+    "itemName": "스카이 샤크"
+  },
+  {
+    "itemCode": 1040050,
+    "itemName": "블랙 스니크"
+  },
+  {
+    "itemCode": 1040023,
+    "itemName": "블랙 이너스 체인메일"
+  },
+  {
+    "itemCode": 1040025,
+    "itemName": "레드 이너스 체인메일"
+  },
+  {
+    "itemCode": 1041060,
+    "itemName": "골드 스니클리스"
+  },
+  {
+    "itemCode": 1041035,
+    "itemName": "옐로우 이너스 체인메일"
+  },
+  {
+    "itemCode": 1040022,
+    "itemName": "그린 이너스 체인메일"
+  },
+  {
+    "itemCode": 1041057,
+    "itemName": "다크 스니클리스"
+  },
+  {
+    "itemCode": 1041058,
+    "itemName": "블러드 스니클리스"
+  },
+  {
+    "itemCode": 1041034,
+    "itemName": "블루 이너스 체인메일"
+  },
+  {
+    "itemCode": 1040049,
+    "itemName": "블루 스니크"
+  },
+  {
+    "itemCode": 1041043,
+    "itemName": "블루 페어리 로브"
+  },
+  {
+    "itemCode": 1041041,
+    "itemName": "퍼플 페어리 로브"
+  },
+  {
+    "itemCode": 1041042,
+    "itemName": "그린 페어리 로브"
+  },
+  {
+    "itemCode": 1040058,
+    "itemName": "다크실버 스틸러"
+  },
+  {
+    "itemCode": 1041049,
+    "itemName": "블루 스틸레스"
+  },
+  {
+    "itemCode": 1040026,
+    "itemName": "지천의"
+  },
+  {
+    "itemCode": 1040070,
+    "itemName": "블루 헌터스 아머"
+  },
+  {
+    "itemCode": 1040068,
+    "itemName": "다크 헌터스 아머"
+  },
+  {
+    "itemCode": 1040057,
+    "itemName": "다크브라운 스틸러"
+  },
+  {
+    "itemCode": 1040021,
+    "itemName": "지장의"
+  },
+  {
+    "itemCode": 1041056,
+    "itemName": "레드 헌터미 아머"
+  },
+  {
+    "itemCode": 1040060,
+    "itemName": "실버블랙 스틸러"
+  },
+  {
+    "itemCode": 1040067,
+    "itemName": "그린 헌터스 아머"
+  },
+  {
+    "itemCode": 1041047,
+    "itemName": "레드 스틸레스"
+  },
+  {
+    "itemCode": 1041055,
+    "itemName": "블랙 헌터미 아머"
+  },
+  {
+    "itemCode": 1041050,
+    "itemName": "퍼플 스틸레스"
+  },
+  {
+    "itemCode": 1040059,
+    "itemName": "레드골드 스틸러"
+  },
+  {
+    "itemCode": 1041054,
+    "itemName": "그린 헌터미 아머"
+  },
+  {
+    "itemCode": 1041048,
+    "itemName": "블랙 스틸레스"
+  },
+  {
+    "itemCode": 1040069,
+    "itemName": "레드 헌터스 아머"
+  },
+  {
+    "itemCode": 1040028,
+    "itemName": "창천의"
+  },
+  {
+    "itemCode": 1041052,
+    "itemName": "블루 아모리아 로브"
+  },
+  {
+    "itemCode": 1041051,
+    "itemName": "레드 아모리아 로브"
+  },
+  {
+    "itemCode": 1041053,
+    "itemName": "블랙 아모리아 로브"
+  },
+  {
+    "itemCode": 1040062,
+    "itemName": "레드 너클베스트"
+  },
+  {
+    "itemCode": 1041067,
+    "itemName": "그린 레골리스"
+  },
+  {
+    "itemCode": 1041066,
+    "itemName": "블루 레골리스"
+  },
+  {
+    "itemCode": 1041065,
+    "itemName": "레드 레골리스"
+  },
+  {
+    "itemCode": 1040029,
+    "itemName": "청룡의"
+  },
+  {
+    "itemCode": 1040072,
+    "itemName": "레드 레골러"
+  },
+  {
+    "itemCode": 1041068,
+    "itemName": "다크 레골리스"
+  },
+  {
+    "itemCode": 1040073,
+    "itemName": "블루 레골러"
+  },
+  {
+    "itemCode": 1041069,
+    "itemName": "브라운 레골리스"
+  },
+  {
+    "itemCode": 1040076,
+    "itemName": "브라운 레골러"
+  },
+  {
+    "itemCode": 1040063,
+    "itemName": "블랙 너클베스트"
+  },
+  {
+    "itemCode": 1040075,
+    "itemName": "다크 레골러"
+  },
+  {
+    "itemCode": 1040074,
+    "itemName": "그린 레골러"
+  },
+  {
+    "itemCode": 1040061,
+    "itemName": "그린 너클베스트"
+  },
+  {
+    "itemCode": 1040030,
+    "itemName": "금룡의"
+  },
+  {
+    "itemCode": 1040084,
+    "itemName": "다크 쉐도우"
+  },
+  {
+    "itemCode": 1040079,
+    "itemName": "브라운 피에뜨"
+  },
+  {
+    "itemCode": 1041085,
+    "itemName": "황진월갑주"
+  },
+  {
+    "itemCode": 1040083,
+    "itemName": "마린 쉐도우"
+  },
+  {
+    "itemCode": 1040080,
+    "itemName": "다크 피에뜨"
+  },
+  {
+    "itemCode": 1040081,
+    "itemName": "화이트 피에뜨"
+  },
+  {
+    "itemCode": 1041075,
+    "itemName": "레드 쉐도우"
+  },
+  {
+    "itemCode": 1040085,
+    "itemName": "자진일갑주"
+  },
+  {
+    "itemCode": 1041083,
+    "itemName": "다크 피에르타"
+  },
+  {
+    "itemCode": 1041081,
+    "itemName": "화이트 피에르타"
+  },
+  {
+    "itemCode": 1040086,
+    "itemName": "청진일갑주"
+  },
+  {
+    "itemCode": 1040000,
+    "itemName": "황진일갑주"
+  },
+  {
+    "itemCode": 1040082,
+    "itemName": "카키 쉐도우"
+  },
+  {
+    "itemCode": 1041082,
+    "itemName": "브라운 피에르타"
+  },
+  {
+    "itemCode": 1041076,
+    "itemName": "다크 쉐도우"
+  },
+  {
+    "itemCode": 1041086,
+    "itemName": "흑진월갑주"
+  },
+  {
+    "itemCode": 1041084,
+    "itemName": "홍진월갑주"
+  },
+  {
+    "itemCode": 1041074,
+    "itemName": "퍼플 쉐도우"
+  },
+  {
+    "itemCode": 1040095,
+    "itemName": "청일"
+  },
+  {
+    "itemCode": 1041088,
+    "itemName": "아이보리 숄더메일"
+  },
+  {
+    "itemCode": 1040096,
+    "itemName": "황일"
+  },
+  {
+    "itemCode": 1041087,
+    "itemName": "레드 숄더메일"
+  },
+  {
+    "itemCode": 1040097,
+    "itemName": "녹일"
+  },
+  {
+    "itemCode": 1041089,
+    "itemName": "다크 숄더메일"
+  },
+  {
+    "itemCode": 1040089,
+    "itemName": "엄버 숄더메일"
+  },
+  {
+    "itemCode": 1041079,
+    "itemName": "황월"
+  },
+  {
+    "itemCode": 1041077,
+    "itemName": "자월"
+  },
+  {
+    "itemCode": 1040094,
+    "itemName": "적일"
+  },
+  {
+    "itemCode": 1040087,
+    "itemName": "블루 숄더메일"
+  },
+  {
+    "itemCode": 1041078,
+    "itemName": "청월"
+  },
+  {
+    "itemCode": 1040088,
+    "itemName": "오우커 숄더메일"
+  },
+  {
+    "itemCode": 1041080,
+    "itemName": "적월"
+  },
+  {
+    "itemCode": 1041094,
+    "itemName": "라이트 맨티스"
+  },
+  {
+    "itemCode": 1041093,
+    "itemName": "블루 트란도트"
+  },
+  {
+    "itemCode": 1040093,
+    "itemName": "다크 오리엔타이칸"
+  },
+  {
+    "itemCode": 1040092,
+    "itemName": "블루 오리엔타이칸"
+  },
+  {
+    "itemCode": 1040099,
+    "itemName": "오커 스콜피오"
+  },
+  {
+    "itemCode": 1040098,
+    "itemName": "라이트 스콜피오"
+  },
+  {
+    "itemCode": 1041096,
+    "itemName": "엄버 맨티스"
+  },
+  {
+    "itemCode": 1041095,
+    "itemName": "블러디 맨티스"
+  },
+  {
+    "itemCode": 1040100,
+    "itemName": "다크 스콜피오"
+  },
+  {
+    "itemCode": 1040090,
+    "itemName": "그린 오리엔타이칸"
+  },
+  {
+    "itemCode": 1041092,
+    "itemName": "레드 트란도트"
+  },
+  {
+    "itemCode": 1040091,
+    "itemName": "레드 오리엔타이칸"
+  },
+  {
+    "itemCode": 1041091,
+    "itemName": "그린 트란도트"
+  },
+  {
+    "itemCode": 1040107,
+    "itemName": "다크 스타드"
+  },
+  {
+    "itemCode": 1040105,
+    "itemName": "브라운 스타드"
+  },
+  {
+    "itemCode": 1040106,
+    "itemName": "블루 스타드"
+  },
+  {
+    "itemCode": 1041103,
+    "itemName": "레드 루티드"
+  },
+  {
+    "itemCode": 1041101,
+    "itemName": "블루 루티드"
+  },
+  {
+    "itemCode": 1041102,
+    "itemName": "핑크 루티드"
+  },
+  {
+    "itemCode": 1041100,
+    "itemName": "퍼플 루티드"
+  },
+  {
+    "itemCode": 1040109,
+    "itemName": "레드 피라테"
+  },
+  {
+    "itemCode": 1040110,
+    "itemName": "다크 피라테"
+  },
+  {
+    "itemCode": 1041106,
+    "itemName": "레드 피라티드"
+  },
+  {
+    "itemCode": 1041107,
+    "itemName": "다크 피라티드"
+  },
+  {
+    "itemCode": 1041105,
+    "itemName": "그린 피라티드"
+  },
+  {
+    "itemCode": 1040108,
+    "itemName": "그린 피라테"
+  },
+  {
+    "itemCode": 1041117,
+    "itemName": "퍼플 미스트슈트"
+  },
+  {
+    "itemCode": 1040117,
+    "itemName": "퍼플 쉐이드슈트"
+  },
+  {
+    "itemCode": 1040112,
+    "itemName": "블루 제너럴"
+  },
+  {
+    "itemCode": 1040111,
+    "itemName": "그린 제너럴"
+  },
+  {
+    "itemCode": 1040113,
+    "itemName": "다크 제너럴"
+  },
+  {
+    "itemCode": 1040118,
+    "itemName": "레드 쉐이드슈트"
+  },
+  {
+    "itemCode": 1041115,
+    "itemName": "그린 미스트슈트"
+  },
+  {
+    "itemCode": 1041120,
+    "itemName": "퍼플 발퀴레"
+  },
+  {
+    "itemCode": 1040115,
+    "itemName": "그린 쉐이드슈트"
+  },
+  {
+    "itemCode": 1041116,
+    "itemName": "브라운 미스트슈트"
+  },
+  {
+    "itemCode": 1041118,
+    "itemName": "레드 미스트슈트"
+  },
+  {
+    "itemCode": 1040116,
+    "itemName": "브라운 쉐이드슈트"
+  },
+  {
+    "itemCode": 1041121,
+    "itemName": "다크 발퀴레"
+  },
+  {
+    "itemCode": 1041119,
+    "itemName": "그린 발퀴레"
+  },
+  {
+    "itemCode": 1041124,
+    "itemName": "다크 엘소르"
+  },
+  {
+    "itemCode": 1040122,
+    "itemName": "블랙 네오스"
+  },
+  {
+    "itemCode": 1040120,
+    "itemName": "그린 네오스"
+  },
+  {
+    "itemCode": 1040121,
+    "itemName": "블루 네오스"
+  },
+  {
+    "itemCode": 1041123,
+    "itemName": "퍼플 엘소르"
+  },
+  {
+    "itemCode": 1041122,
+    "itemName": "그린 엘소르"
+  },
+  {
+    "itemCode": 1060002,
+    "itemName": "파란 청 반바지"
+  },
+  {
+    "itemCode": 1061002,
+    "itemName": "빨간 미니 스커트"
+  },
+  {
+    "itemCode": 1060006,
+    "itemName": "갈색 면 반바지"
+  },
+  {
+    "itemCode": 1061008,
+    "itemName": "남색 미니 스커트"
+  },
+  {
+    "itemCode": 1060007,
+    "itemName": "파란 칠부바지"
+  },
+  {
+    "itemCode": 1060012,
+    "itemName": "파란색 수련복 바지"
+  },
+  {
+    "itemCode": 1061011,
+    "itemName": "그린 아르미네 치마"
+  },
+  {
+    "itemCode": 1060013,
+    "itemName": "회갈색 수련복 바지"
+  },
+  {
+    "itemCode": 1061010,
+    "itemName": "블랙 아르미네 치마"
+  },
+  {
+    "itemCode": 1061014,
+    "itemName": "레전드 바지"
+  },
+  {
+    "itemCode": 1060021,
+    "itemName": "청몽 바지"
+  },
+  {
+    "itemCode": 1061029,
+    "itemName": "홍몽 바지"
+  },
+  {
+    "itemCode": 1060028,
+    "itemName": "블루 로리카 바지"
+  },
+  {
+    "itemCode": 1060022,
+    "itemName": "홍몽 바지"
+  },
+  {
+    "itemCode": 1061009,
+    "itemName": "그린 아벨린 치마"
+  },
+  {
+    "itemCode": 1061023,
+    "itemName": "소피아 바지"
+  },
+  {
+    "itemCode": 1060023,
+    "itemName": "흑몽 바지"
+  },
+  {
+    "itemCode": 1060008,
+    "itemName": "브라운 로리카 바지"
+  },
+  {
+    "itemCode": 1061057,
+    "itemName": "옐로우 아벨린 치마"
+  },
+  {
+    "itemCode": 1060004,
+    "itemName": "회색 고무줄 바지"
+  },
+  {
+    "itemCode": 1061013,
+    "itemName": "그린 아리안느 치마"
+  },
+  {
+    "itemCode": 1061021,
+    "itemName": "핑크 아리안느 치마"
+  },
+  {
+    "itemCode": 1061022,
+    "itemName": "옐로우 아리안느 치마"
+  },
+  {
+    "itemCode": 1061012,
+    "itemName": "퍼플 아리안느 치마"
+  },
+  {
+    "itemCode": 1041097,
+    "itemName": "아쿠아 플라티나(여)"
+  },
+  {
+    "itemCode": 1041098,
+    "itemName": "바이올렛 플라티나(여)"
+  },
+  {
+    "itemCode": 1040103,
+    "itemName": "미스릴 플라틴(남)"
+  },
+  {
+    "itemCode": 1040102,
+    "itemName": "브론즈 플라틴(남)"
+  },
+  {
+    "itemCode": 1061059,
+    "itemName": "그레이 아벨 가죽치마"
+  },
+  {
+    "itemCode": 1060024,
+    "itemName": "흑야 바지"
+  },
+  {
+    "itemCode": 1061038,
+    "itemName": "황야 바지"
+  },
+  {
+    "itemCode": 1060027,
+    "itemName": "브라운 코퍼럴 바지"
+  },
+  {
+    "itemCode": 1060025,
+    "itemName": "청야 바지"
+  },
+  {
+    "itemCode": 1061006,
+    "itemName": "그린 아벨 가죽치마"
+  },
+  {
+    "itemCode": 1061037,
+    "itemName": "적야 바지"
+  },
+  {
+    "itemCode": 1060009,
+    "itemName": "스틸 코퍼럴 바지"
+  },
+  {
+    "itemCode": 1061058,
+    "itemName": "브라운 아벨 가죽치마"
+  },
+  {
+    "itemCode": 1062001,
+    "itemName": "워싱진"
+  },
+  {
+    "itemCode": 1062000,
+    "itemName": "아이스 진"
+  },
+  {
+    "itemCode": 1061027,
+    "itemName": "검은색 가람 치마"
+  },
+  {
+    "itemCode": 1060015,
+    "itemName": "흰색 가람 바지"
+  },
+  {
+    "itemCode": 1061028,
+    "itemName": "흰색 가람 치마"
+  },
+  {
+    "itemCode": 1060014,
+    "itemName": "검은색 가람 바지"
+  },
+  {
+    "itemCode": 1061033,
+    "itemName": "파란색 친파오 바지"
+  },
+  {
+    "itemCode": 1060032,
+    "itemName": "빨간색 파오 바지"
+  },
+  {
+    "itemCode": 1060010,
+    "itemName": "스틸 서전트 치마"
+  },
+  {
+    "itemCode": 1061024,
+    "itemName": "그린 쉬버메일 치마"
+  },
+  {
+    "itemCode": 1061017,
+    "itemName": "그린 라멜 치마"
+  },
+  {
+    "itemCode": 1061003,
+    "itemName": "빨간색 친파오 바지"
+  },
+  {
+    "itemCode": 1060029,
+    "itemName": "레드 서전트 치마"
+  },
+  {
+    "itemCode": 1061032,
+    "itemName": "보라색 친파오 바지"
+  },
+  {
+    "itemCode": 1061025,
+    "itemName": "레드 쉬버메일 치마"
+  },
+  {
+    "itemCode": 1061026,
+    "itemName": "퍼플 쉬버메일 치마"
+  },
+  {
+    "itemCode": 1061016,
+    "itemName": "레드 라멜 치마"
+  },
+  {
+    "itemCode": 1060033,
+    "itemName": "검정색 파오 바지"
+  },
+  {
+    "itemCode": 1060031,
+    "itemName": "파란색 파오 바지"
+  },
+  {
+    "itemCode": 1062002,
+    "itemName": "갈색 하드래더 바지"
+  },
+  {
+    "itemCode": 1061018,
+    "itemName": "브라운 라멜 치마"
+  },
+  {
+    "itemCode": 1061041,
+    "itemName": "보라색 친파오 치마"
+  },
+  {
+    "itemCode": 1061040,
+    "itemName": "빨간색 친파오 치마"
+  },
+  {
+    "itemCode": 1061042,
+    "itemName": "파란색 친파오 치마"
+  },
+  {
+    "itemCode": 1061015,
+    "itemName": "블루 샤크 치마"
+  },
+  {
+    "itemCode": 1060038,
+    "itemName": "브라운 스니크 바지"
+  },
+  {
+    "itemCode": 1061054,
+    "itemName": "블러드 스니클리스 바지"
+  },
+  {
+    "itemCode": 1061053,
+    "itemName": "다크 스니클리스 바지"
+  },
+  {
+    "itemCode": 1061019,
+    "itemName": "스카이 샤크 치마"
+  },
+  {
+    "itemCode": 1061056,
+    "itemName": "골드 스니클리스 바지"
+  },
+  {
+    "itemCode": 1061020,
+    "itemName": "레드 샤크 치마"
+  },
+  {
+    "itemCode": 1060060,
+    "itemName": "실버 마스터 서전트 치마"
+  },
+  {
+    "itemCode": 1060037,
+    "itemName": "다크브라운 스니크 바지"
+  },
+  {
+    "itemCode": 1062006,
+    "itemName": "이너스 체인바지"
+  },
+  {
+    "itemCode": 1060030,
+    "itemName": "다크 마스터 서전트 치마"
+  },
+  {
+    "itemCode": 1061055,
+    "itemName": "스카이 스니클리스 바지"
+  },
+  {
+    "itemCode": 1060039,
+    "itemName": "블랙 스니크 바지"
+  },
+  {
+    "itemCode": 1060011,
+    "itemName": "오리할콘 마스터 서전트 치마"
+  },
+  {
+    "itemCode": 1060005,
+    "itemName": "우드랜드 바지"
+  },
+  {
+    "itemCode": 1061034,
+    "itemName": "퍼플 페어리 로브 치마"
+  },
+  {
+    "itemCode": 1061035,
+    "itemName": "그린 페어리 로브 치마"
+  },
+  {
+    "itemCode": 1061036,
+    "itemName": "블루 페어리 로브 치마"
+  },
+  {
+    "itemCode": 1060016,
+    "itemName": "흑무 바지"
+  },
+  {
+    "itemCode": 1060019,
+    "itemName": "황무 바지"
+  },
+  {
+    "itemCode": 1061050,
+    "itemName": "그린 헌터미 아머 바지"
+  },
+  {
+    "itemCode": 1060059,
+    "itemName": "블루 헌터스 아머 바지"
+  },
+  {
+    "itemCode": 1060018,
+    "itemName": "홍무 바지"
+  },
+  {
+    "itemCode": 1060043,
+    "itemName": "다크브라운 스틸러 바지"
+  },
+  {
+    "itemCode": 1060056,
+    "itemName": "그린 헌터스 아머 바지"
+  },
+  {
+    "itemCode": 1060057,
+    "itemName": "다크 헌터스 아머 바지"
+  },
+  {
+    "itemCode": 1061044,
+    "itemName": "블랙 스틸레스 바지"
+  },
+  {
+    "itemCode": 1060017,
+    "itemName": "백무 바지"
+  },
+  {
+    "itemCode": 1061043,
+    "itemName": "레드 스틸레스 바지"
+  },
+  {
+    "itemCode": 1061045,
+    "itemName": "블루 스틸레스 바지"
+  },
+  {
+    "itemCode": 1060045,
+    "itemName": "레드골드 스틸러 바지"
+  },
+  {
+    "itemCode": 1061051,
+    "itemName": "블랙 헌터미 아머 바지"
+  },
+  {
+    "itemCode": 1060058,
+    "itemName": "레드 헌터스 아머 바지"
+  },
+  {
+    "itemCode": 1060044,
+    "itemName": "다크실버 스틸러 바지"
+  },
+  {
+    "itemCode": 1061046,
+    "itemName": "퍼플 스틸레스 바지"
+  },
+  {
+    "itemCode": 1061052,
+    "itemName": "레드 헌터미 아머 바지"
+  },
+  {
+    "itemCode": 1060046,
+    "itemName": "실버블랙 스틸러 바지"
+  },
+  {
+    "itemCode": 1061048,
+    "itemName": "블루 아모리아 치마"
+  },
+  {
+    "itemCode": 1061049,
+    "itemName": "블랙 아모리아 치마"
+  },
+  {
+    "itemCode": 1061047,
+    "itemName": "레드 아모리아 치마"
+  },
+  {
+    "itemCode": 1060061,
+    "itemName": "레드 레골러 바지"
+  },
+  {
+    "itemCode": 1060050,
+    "itemName": "블루 너클베스트 바지"
+  },
+  {
+    "itemCode": 1061064,
+    "itemName": "브라운 레골리스 바지"
+  },
+  {
+    "itemCode": 1060062,
+    "itemName": "블루 레골러 바지"
+  },
+  {
+    "itemCode": 1061063,
+    "itemName": "다크 레골리스 바지"
+  },
+  {
+    "itemCode": 1061060,
+    "itemName": "레드 레골리스 바지"
+  },
+  {
+    "itemCode": 1061062,
+    "itemName": "그린 레골리스 바지"
+  },
+  {
+    "itemCode": 1060063,
+    "itemName": "그린 레골러 바지"
+  },
+  {
+    "itemCode": 1060065,
+    "itemName": "브라운 레골러 바지"
+  },
+  {
+    "itemCode": 1061061,
+    "itemName": "블루 레골리스 바지"
+  },
+  {
+    "itemCode": 1060051,
+    "itemName": "레드 너클베스트 바지"
+  },
+  {
+    "itemCode": 1060064,
+    "itemName": "다크 레골러 바지"
+  },
+  {
+    "itemCode": 1060052,
+    "itemName": "블랙 너클베스트 바지"
+  },
+  {
+    "itemCode": 1060020,
+    "itemName": "반 백무 바지"
+  },
+  {
+    "itemCode": 1060071,
+    "itemName": "카키 쉐도우 바지"
+  },
+  {
+    "itemCode": 1060069,
+    "itemName": "브라운 피에뜨 바지"
+  },
+  {
+    "itemCode": 1060000,
+    "itemName": "흑진일갑주 바지"
+  },
+  {
+    "itemCode": 1061084,
+    "itemName": "황진월갑주 치마"
+  },
+  {
+    "itemCode": 1061085,
+    "itemName": "흑진월갑주 치마"
+  },
+  {
+    "itemCode": 1061082,
+    "itemName": "다크 피에르타 치마"
+  },
+  {
+    "itemCode": 1061083,
+    "itemName": "홍진월갑주 치마"
+  },
+  {
+    "itemCode": 1060068,
+    "itemName": "다크 피에뜨 바지"
+  },
+  {
+    "itemCode": 1060073,
+    "itemName": "다크 쉐도우 바지"
+  },
+  {
+    "itemCode": 1061069,
+    "itemName": "퍼플 쉐도우 바지"
+  },
+  {
+    "itemCode": 1061081,
+    "itemName": "브라운 피에르타 치마"
+  },
+  {
+    "itemCode": 1061070,
+    "itemName": "레드 쉐도우 바지"
+  },
+  {
+    "itemCode": 1060075,
+    "itemName": "황진일갑주 바지"
+  },
+  {
+    "itemCode": 1061080,
+    "itemName": "화이트 피에르타 치마"
+  },
+  {
+    "itemCode": 1060072,
+    "itemName": "마린 쉐도우 바지"
+  },
+  {
+    "itemCode": 1060070,
+    "itemName": "블루 피에뜨 바지"
+  },
+  {
+    "itemCode": 1060074,
+    "itemName": "백진일갑주 바지"
+  },
+  {
+    "itemCode": 1061071,
+    "itemName": "다크 쉐도우 바지"
+  },
+  {
+    "itemCode": 1060085,
+    "itemName": "황일 바지"
+  },
+  {
+    "itemCode": 1061088,
+    "itemName": "다크 숄더메일 바지"
+  },
+  {
+    "itemCode": 1061077,
+    "itemName": "청월 바지"
+  },
+  {
+    "itemCode": 1061078,
+    "itemName": "황월 바지"
+  },
+  {
+    "itemCode": 1060086,
+    "itemName": "녹일 바지"
+  },
+  {
+    "itemCode": 1061086,
+    "itemName": "레드 숄더메일 바지"
+  },
+  {
+    "itemCode": 1060077,
+    "itemName": "오우커 숄더메일 바지"
+  },
+  {
+    "itemCode": 1061087,
+    "itemName": "아이보리 숄더메일 바지"
+  },
+  {
+    "itemCode": 1060083,
+    "itemName": "적일 바지"
+  },
+  {
+    "itemCode": 1061076,
+    "itemName": "자월 바지"
+  },
+  {
+    "itemCode": 1060084,
+    "itemName": "청일 바지"
+  },
+  {
+    "itemCode": 1060078,
+    "itemName": "엄버 숄더메일 바지"
+  },
+  {
+    "itemCode": 1061079,
+    "itemName": "적월 바지"
+  },
+  {
+    "itemCode": 1060076,
+    "itemName": "블루 숄더메일 바지"
+  },
+  {
+    "itemCode": 1060087,
+    "itemName": "라이트 스콜피오 바지"
+  },
+  {
+    "itemCode": 1060081,
+    "itemName": "블루 오리엔타이칸 바지"
+  },
+  {
+    "itemCode": 1060088,
+    "itemName": "오커 스콜피오 바지"
+  },
+  {
+    "itemCode": 1061091,
+    "itemName": "레드 트란도트 치마"
+  },
+  {
+    "itemCode": 1060079,
+    "itemName": "그린 오리엔타이칸 바지"
+  },
+  {
+    "itemCode": 1061092,
+    "itemName": "블루 트란도트 치마"
+  },
+  {
+    "itemCode": 1061090,
+    "itemName": "그린 트란도트 치마"
+  },
+  {
+    "itemCode": 1060089,
+    "itemName": "다크 스콜피오 바지"
+  },
+  {
+    "itemCode": 1061094,
+    "itemName": "블러디 맨티스 바지"
+  },
+  {
+    "itemCode": 1061095,
+    "itemName": "엄버 맨티스 바지"
+  },
+  {
+    "itemCode": 1060080,
+    "itemName": "레드 오리엔타이칸 바지"
+  },
+  {
+    "itemCode": 1060082,
+    "itemName": "다크 오리엔타이칸 바지"
+  },
+  {
+    "itemCode": 1061093,
+    "itemName": "라이트 맨티스 바지"
+  },
+  {
+    "itemCode": 1061100,
+    "itemName": "블루 루티드 바지"
+  },
+  {
+    "itemCode": 1060094,
+    "itemName": "블루 스타드 바지"
+  },
+  {
+    "itemCode": 1060095,
+    "itemName": "다크 스타드 바지"
+  },
+  {
+    "itemCode": 1060093,
+    "itemName": "브라운 스타드 바지"
+  },
+  {
+    "itemCode": 1061101,
+    "itemName": "핑크 루티드 바지"
+  },
+  {
+    "itemCode": 1061102,
+    "itemName": "레드 루티드 바지"
+  },
+  {
+    "itemCode": 1061099,
+    "itemName": "퍼플 루티드 바지"
+  },
+  {
+    "itemCode": 1061104,
+    "itemName": "그린 피라티드 치마"
+  },
+  {
+    "itemCode": 1060099,
+    "itemName": "다크 피라테 바지"
+  },
+  {
+    "itemCode": 1061105,
+    "itemName": "레드 피라티드 치마"
+  },
+  {
+    "itemCode": 1060098,
+    "itemName": "레드 피라테 바지"
+  },
+  {
+    "itemCode": 1061106,
+    "itemName": "다크 피라티드 치마"
+  },
+  {
+    "itemCode": 1060097,
+    "itemName": "그린 피라테 바지"
+  },
+  {
+    "itemCode": 1060101,
+    "itemName": "블루 제너럴 바지"
+  },
+  {
+    "itemCode": 1061118,
+    "itemName": "그린 발퀴레 치마"
+  },
+  {
+    "itemCode": 1061115,
+    "itemName": "브라운 미스트슈트 바지"
+  },
+  {
+    "itemCode": 1061114,
+    "itemName": "그린 미스트슈트 바지"
+  },
+  {
+    "itemCode": 1060100,
+    "itemName": "그린 제너럴 바지"
+  },
+  {
+    "itemCode": 1060107,
+    "itemName": "레드 쉐이드슈트 바지"
+  },
+  {
+    "itemCode": 1061116,
+    "itemName": "퍼플 미스트슈트 바지"
+  },
+  {
+    "itemCode": 1060105,
+    "itemName": "브라운 쉐이드슈트 바지"
+  },
+  {
+    "itemCode": 1060106,
+    "itemName": "퍼플 쉐이드슈트 바지"
+  },
+  {
+    "itemCode": 1061119,
+    "itemName": "퍼플 발퀴레 치마"
+  },
+  {
+    "itemCode": 1061120,
+    "itemName": "블러드 발퀴레 치마"
+  },
+  {
+    "itemCode": 1060104,
+    "itemName": "그린 쉐이드슈트 바지"
+  },
+  {
+    "itemCode": 1060102,
+    "itemName": "다크 제너럴 바지"
+  },
+  {
+    "itemCode": 1061117,
+    "itemName": "레드 미스트슈트 바지"
+  },
+  {
+    "itemCode": 1060110,
+    "itemName": "블루 네오스 바지"
+  },
+  {
+    "itemCode": 1060111,
+    "itemName": "블랙 네오스 바지"
+  },
+  {
+    "itemCode": 1061122,
+    "itemName": "퍼플 엘소르 치마"
+  },
+  {
+    "itemCode": 1061098,
+    "itemName": "블러드 플라티나 바지(여)"
+  },
+  {
+    "itemCode": 1060090,
+    "itemName": "브론즈 플라틴 바지(남)"
+  },
+  {
+    "itemCode": 1060092,
+    "itemName": "오리할콘 플라틴 바지(남)"
+  },
+  {
+    "itemCode": 1060091,
+    "itemName": "미스릴 플라틴 바지(남)"
+  },
+  {
+    "itemCode": 1060109,
+    "itemName": "그린 네오스 바지"
+  },
+  {
+    "itemCode": 1061121,
+    "itemName": "그린 엘소르 치마"
+  },
+  {
+    "itemCode": 1061123,
+    "itemName": "다크 엘소르 치마"
+  },
+  {
+    "itemCode": 1092003,
+    "itemName": "사각 나무 방패"
+  },
+  {
+    "itemCode": 1092008,
+    "itemName": "냄비 뚜껑"
+  },
+  {
+    "itemCode": 1092005,
+    "itemName": "우드 버클러"
+  },
+  {
+    "itemCode": 1092000,
+    "itemName": "강철 방패"
+  },
+  {
+    "itemCode": 1092006,
+    "itemName": "미스릴 버클러"
+  },
+  {
+    "itemCode": 1092019,
+    "itemName": "님블 리스트"
+  },
+  {
+    "itemCode": 1092020,
+    "itemName": "주르건 리스트"
+  },
+  {
+    "itemCode": 1092021,
+    "itemName": "미스틱 실드"
+  },
+  {
+    "itemCode": 1092001,
+    "itemName": "빨간 삼각 방패"
+  },
+  {
+    "itemCode": 1092002,
+    "itemName": "레드 크로스 실드"
+  },
+  {
+    "itemCode": 1092029,
+    "itemName": "에스터 실드"
+  },
+  {
+    "itemCode": 1092007,
+    "itemName": "배틀 실드"
+  },
+  {
+    "itemCode": 1092014,
+    "itemName": "아다만티움 타워 실드"
+  },
+  {
+    "itemCode": 1092013,
+    "itemName": "미스릴 타워 실드"
+  },
+  {
+    "itemCode": 1092012,
+    "itemName": "스틸 타워 실드"
+  },
+  {
+    "itemCode": 1092004,
+    "itemName": "해골 방패"
+  },
+  {
+    "itemCode": 1092011,
+    "itemName": "아다만티움 레전드 실드"
+  },
+  {
+    "itemCode": 1092010,
+    "itemName": "실버 레전드 실드"
+  },
+  {
+    "itemCode": 1092009,
+    "itemName": "우드 레전드 실드"
+  },
+  {
+    "itemCode": 1092016,
+    "itemName": "실버 에이션트 실드"
+  },
+  {
+    "itemCode": 1092015,
+    "itemName": "스틸 에이션트 실드"
+  },
+  {
+    "itemCode": 1092017,
+    "itemName": "골드 에이션트 실드"
+  },
+  {
+    "itemCode": 1092025,
+    "itemName": "골드 아퀼라 실드"
+  },
+  {
+    "itemCode": 1092024,
+    "itemName": "실버 아퀼라 실드"
+  },
+  {
+    "itemCode": 1092023,
+    "itemName": "스틸 아퀼라 실드"
+  },
+  {
+    "itemCode": 1092027,
+    "itemName": "실버 칼칸"
+  },
+  {
+    "itemCode": 1092026,
+    "itemName": "브론즈 칼칸"
+  },
+  {
+    "itemCode": 1092028,
+    "itemName": "골드 칼칸"
+  },
+  {
+    "itemCode": 1092037,
+    "itemName": "바이올렛 호플론"
+  },
+  {
+    "itemCode": 1092036,
+    "itemName": "그린 호플론"
+  },
+  {
+    "itemCode": 1092038,
+    "itemName": "블루 호플론"
+  },
+  {
+    "itemCode": 1002008,
+    "itemName": "갈색 가죽 모자"
+  },
+  {
+    "itemCode": 1002014,
+    "itemName": "빨간색 머리띠"
+  },
+  {
+    "itemCode": 1002069,
+    "itemName": "파란색 머리띠"
+  },
+  {
+    "itemCode": 1002066,
+    "itemName": "검은색 머리띠"
+  },
+  {
+    "itemCode": 1002067,
+    "itemName": "연두색 머리띠"
+  },
+  {
+    "itemCode": 1002132,
+    "itemName": "검정색 물개모자"
+  },
+  {
+    "itemCode": 1002134,
+    "itemName": "빨간색 물개모자"
+  },
+  {
+    "itemCode": 1002133,
+    "itemName": "파란색 물개모자"
+  },
+  {
+    "itemCode": 1002057,
+    "itemName": "초록색 고급 가죽 모자"
+  },
+  {
+    "itemCode": 1002075,
+    "itemName": "붉은색 낡은 고깔 모자"
+  },
+  {
+    "itemCode": 1002043,
+    "itemName": "브론즈 코이프"
+  },
+  {
+    "itemCode": 1002019,
+    "itemName": "흰색 두건"
+  },
+  {
+    "itemCode": 1002081,
+    "itemName": "파란색 두건"
+  },
+  {
+    "itemCode": 1002126,
+    "itemName": "초록색 좀도둑 털모자"
+  },
+  {
+    "itemCode": 1002122,
+    "itemName": "빨간색 좀도둑 털모자"
+  },
+  {
+    "itemCode": 1002125,
+    "itemName": "검정색 좀도둑 털모자"
+  },
+  {
+    "itemCode": 1002017,
+    "itemName": "갈색 낡은 고깔 모자"
+  },
+  {
+    "itemCode": 1002123,
+    "itemName": "파란색 좀도둑 털모자"
+  },
+  {
+    "itemCode": 1002002,
+    "itemName": "메탈 코이프"
+  },
+  {
+    "itemCode": 1002124,
+    "itemName": "갈색 좀도둑 털모자"
+  },
+  {
+    "itemCode": 1002610,
+    "itemName": "브라운 로키 반다나"
+  },
+  {
+    "itemCode": 1002010,
+    "itemName": "갈색 고급 가죽 모자"
+  },
+  {
+    "itemCode": 1002083,
+    "itemName": "검은색 두건"
+  },
+  {
+    "itemCode": 1002003,
+    "itemName": "스틸 캡"
+  },
+  {
+    "itemCode": 1002039,
+    "itemName": "브론즈 캡"
+  },
+  {
+    "itemCode": 1002113,
+    "itemName": "블루 페더햇"
+  },
+  {
+    "itemCode": 1002114,
+    "itemName": "그린 페더햇"
+  },
+  {
+    "itemCode": 1002068,
+    "itemName": "노란색 머리띠"
+  },
+  {
+    "itemCode": 1002110,
+    "itemName": "블랙 시프 후드"
+  },
+  {
+    "itemCode": 1002108,
+    "itemName": "블루 시프 후드"
+  },
+  {
+    "itemCode": 1002104,
+    "itemName": "그린문 고깔모자"
+  },
+  {
+    "itemCode": 1002042,
+    "itemName": "블루 메탈 기어"
+  },
+  {
+    "itemCode": 1002105,
+    "itemName": "다크문 고깔모자"
+  },
+  {
+    "itemCode": 1002107,
+    "itemName": "레드 시프 후드"
+  },
+  {
+    "itemCode": 1002103,
+    "itemName": "핑크문 고깔모자"
+  },
+  {
+    "itemCode": 1002001,
+    "itemName": "메탈 기어"
+  },
+  {
+    "itemCode": 1002041,
+    "itemName": "옐로우 메탈 기어"
+  },
+  {
+    "itemCode": 1002112,
+    "itemName": "레드 페더햇"
+  },
+  {
+    "itemCode": 1002613,
+    "itemName": "브라운 래거 캡"
+  },
+  {
+    "itemCode": 1002109,
+    "itemName": "그린 시프 후드"
+  },
+  {
+    "itemCode": 1002116,
+    "itemName": "브라운 페더햇"
+  },
+  {
+    "itemCode": 1002051,
+    "itemName": "브론즈 풀 헬름"
+  },
+  {
+    "itemCode": 1002102,
+    "itemName": "블루문 고깔모자"
+  },
+  {
+    "itemCode": 1002007,
+    "itemName": "스틸 풀 헬름"
+  },
+  {
+    "itemCode": 1002115,
+    "itemName": "블랙 페더햇"
+  },
+  {
+    "itemCode": 1002111,
+    "itemName": "옐로우 시프 후드"
+  },
+  {
+    "itemCode": 1002106,
+    "itemName": "브라운문 고깔모자"
+  },
+  {
+    "itemCode": 1002033,
+    "itemName": "군밤장수 모자"
+  },
+  {
+    "itemCode": 1002128,
+    "itemName": "블루 루즈캡"
+  },
+  {
+    "itemCode": 1002117,
+    "itemName": "레드 페더윙햇"
+  },
+  {
+    "itemCode": 1002127,
+    "itemName": "레드 루즈캡"
+  },
+  {
+    "itemCode": 1002073,
+    "itemName": "빨간색 사제의 모자"
+  },
+  {
+    "itemCode": 1002120,
+    "itemName": "블랙 페더윙햇"
+  },
+  {
+    "itemCode": 1002118,
+    "itemName": "블루 페더윙햇"
+  },
+  {
+    "itemCode": 1002059,
+    "itemName": "브론즈 바이킹 헬름"
+  },
+  {
+    "itemCode": 1002055,
+    "itemName": "브론즈 디펜더 헬멧"
+  },
+  {
+    "itemCode": 1002121,
+    "itemName": "브라운 페더윙햇"
+  },
+  {
+    "itemCode": 1002131,
+    "itemName": "그린 루즈캡"
+  },
+  {
+    "itemCode": 1002016,
+    "itemName": "초록색 사제의 모자"
+  },
+  {
+    "itemCode": 1002062,
+    "itemName": "갈색 야구 모자"
+  },
+  {
+    "itemCode": 1002012,
+    "itemName": "빨간색 야구 모자"
+  },
+  {
+    "itemCode": 1002063,
+    "itemName": "파란색 야구 모자"
+  },
+  {
+    "itemCode": 1002130,
+    "itemName": "블랙 루즈캡"
+  },
+  {
+    "itemCode": 1002060,
+    "itemName": "검은색 야구 모자"
+  },
+  {
+    "itemCode": 1002129,
+    "itemName": "브라운 루즈캡"
+  },
+  {
+    "itemCode": 1002616,
+    "itemName": "브라운 더블마린"
+  },
+  {
+    "itemCode": 1002058,
+    "itemName": "미스릴 바이킹 헬름"
+  },
+  {
+    "itemCode": 1002119,
+    "itemName": "그린 페더윙햇"
+  },
+  {
+    "itemCode": 1002027,
+    "itemName": "스틸 샤프 헬름"
+  },
+  {
+    "itemCode": 1002157,
+    "itemName": "블루 헌트"
+  },
+  {
+    "itemCode": 1002096,
+    "itemName": "하늘색 별 두건"
+  },
+  {
+    "itemCode": 1002160,
+    "itemName": "브라운 헌트"
+  },
+  {
+    "itemCode": 1002148,
+    "itemName": "그린 티베리안"
+  },
+  {
+    "itemCode": 1002049,
+    "itemName": "골드 버거넷 헬름"
+  },
+  {
+    "itemCode": 1002005,
+    "itemName": "아이언 버거넷 헬름"
+  },
+  {
+    "itemCode": 1002020,
+    "itemName": "빨간색 별 두건"
+  },
+  {
+    "itemCode": 1002150,
+    "itemName": "다크 티베리안"
+  },
+  {
+    "itemCode": 1002156,
+    "itemName": "레드 헌트"
+  },
+  {
+    "itemCode": 1002146,
+    "itemName": "레드 티베리안"
+  },
+  {
+    "itemCode": 1002158,
+    "itemName": "그린 헌트"
+  },
+  {
+    "itemCode": 1002147,
+    "itemName": "블루 티베리안"
+  },
+  {
+    "itemCode": 1002149,
+    "itemName": "브라운 티베리안"
+  },
+  {
+    "itemCode": 1002619,
+    "itemName": "브라운 피츠 반다나"
+  },
+  {
+    "itemCode": 1002159,
+    "itemName": "블랙 헌트"
+  },
+  {
+    "itemCode": 1002013,
+    "itemName": "손오공 금 머리띠"
+  },
+  {
+    "itemCode": 1002035,
+    "itemName": "핑크 핀터"
+  },
+  {
+    "itemCode": 1002172,
+    "itemName": "블루 가이즈"
+  },
+  {
+    "itemCode": 1002622,
+    "itemName": "화이트 오시니아 캡"
+  },
+  {
+    "itemCode": 1002174,
+    "itemName": "브라운 가이즈"
+  },
+  {
+    "itemCode": 1002038,
+    "itemName": "브라운 핀터"
+  },
+  {
+    "itemCode": 1002161,
+    "itemName": "레드 네페르"
+  },
+  {
+    "itemCode": 1002023,
+    "itemName": "주스팅"
+  },
+  {
+    "itemCode": 1002163,
+    "itemName": "그린 네페르"
+  },
+  {
+    "itemCode": 1002065,
+    "itemName": "손오공 강철 머리띠"
+  },
+  {
+    "itemCode": 1002162,
+    "itemName": "블루 네페르"
+  },
+  {
+    "itemCode": 1002171,
+    "itemName": "레드 가이즈"
+  },
+  {
+    "itemCode": 1002165,
+    "itemName": "다크 네페르"
+  },
+  {
+    "itemCode": 1002164,
+    "itemName": "브라운 네페르"
+  },
+  {
+    "itemCode": 1002036,
+    "itemName": "그린 핀터"
+  },
+  {
+    "itemCode": 1002173,
+    "itemName": "그린 가이즈"
+  },
+  {
+    "itemCode": 1002175,
+    "itemName": "다크 가이즈"
+  },
+  {
+    "itemCode": 1002064,
+    "itemName": "손오공 청동 머리띠"
+  },
+  {
+    "itemCode": 1002034,
+    "itemName": "블루 핀터"
+  },
+  {
+    "itemCode": 1002037,
+    "itemName": "블랙 핀터"
+  },
+  {
+    "itemCode": 1002179,
+    "itemName": "브라운 버글러"
+  },
+  {
+    "itemCode": 1002142,
+    "itemName": "블루 매티"
+  },
+  {
+    "itemCode": 1002135,
+    "itemName": "브라운 폴레패더햇"
+  },
+  {
+    "itemCode": 1002061,
+    "itemName": "노란색 야구 모자"
+  },
+  {
+    "itemCode": 1002441,
+    "itemName": "리본돼지 머리띠"
+  },
+  {
+    "itemCode": 1002097,
+    "itemName": "노란색 별 두건"
+  },
+  {
+    "itemCode": 1002180,
+    "itemName": "다크 버글러"
+  },
+  {
+    "itemCode": 1002143,
+    "itemName": "그린 매티"
+  },
+  {
+    "itemCode": 1002139,
+    "itemName": "레드 폴레패더햇"
+  },
+  {
+    "itemCode": 1002625,
+    "itemName": "블루 데네마린"
+  },
+  {
+    "itemCode": 1002141,
+    "itemName": "레드 매티"
+  },
+  {
+    "itemCode": 1002145,
+    "itemName": "다크 매티"
+  },
+  {
+    "itemCode": 1002178,
+    "itemName": "그린 버글러"
+  },
+  {
+    "itemCode": 1002048,
+    "itemName": "블루 그레이트 헬멧"
+  },
+  {
+    "itemCode": 1002137,
+    "itemName": "그린 폴레패더햇"
+  },
+  {
+    "itemCode": 1002176,
+    "itemName": "레드 버글러"
+  },
+  {
+    "itemCode": 1002138,
+    "itemName": "블루 폴레패더햇"
+  },
+  {
+    "itemCode": 1002144,
+    "itemName": "브라운 매티"
+  },
+  {
+    "itemCode": 1002047,
+    "itemName": "레드 그레이트 헬멧"
+  },
+  {
+    "itemCode": 1002136,
+    "itemName": "다크 폴레패더햇"
+  },
+  {
+    "itemCode": 1002004,
+    "itemName": "브라운 그레이트 헬멧"
+  },
+  {
+    "itemCode": 1002177,
+    "itemName": "블루 버글러"
+  },
+  {
+    "itemCode": 1002170,
+    "itemName": "다크 크라페"
+  },
+  {
+    "itemCode": 1002152,
+    "itemName": "블루 길티언"
+  },
+  {
+    "itemCode": 1002169,
+    "itemName": "브라운 크라페"
+  },
+  {
+    "itemCode": 1002155,
+    "itemName": "화이트 길티언"
+  },
+  {
+    "itemCode": 1002185,
+    "itemName": "다크 필퍼"
+  },
+  {
+    "itemCode": 1002092,
+    "itemName": "옐로우 듀크"
+  },
+  {
+    "itemCode": 1002093,
+    "itemName": "블루 듀크"
+  },
+  {
+    "itemCode": 1002154,
+    "itemName": "다크 길티언"
+  },
+  {
+    "itemCode": 1002628,
+    "itemName": "레드 로얄미스티"
+  },
+  {
+    "itemCode": 1002184,
+    "itemName": "브라운 필퍼"
+  },
+  {
+    "itemCode": 1002151,
+    "itemName": "브라운 길티언"
+  },
+  {
+    "itemCode": 1002025,
+    "itemName": "레드 듀크"
+  },
+  {
+    "itemCode": 1002182,
+    "itemName": "블루 필퍼"
+  },
+  {
+    "itemCode": 1002167,
+    "itemName": "블루 크라페"
+  },
+  {
+    "itemCode": 1002168,
+    "itemName": "그린 크라페"
+  },
+  {
+    "itemCode": 1002153,
+    "itemName": "레드 길티언"
+  },
+  {
+    "itemCode": 1002181,
+    "itemName": "레드 필퍼"
+  },
+  {
+    "itemCode": 1002183,
+    "itemName": "그린 필퍼"
+  },
+  {
+    "itemCode": 1002166,
+    "itemName": "레드 크라페"
+  },
+  {
+    "itemCode": 1002045,
+    "itemName": "블루 본 헬름"
+  },
+  {
+    "itemCode": 1002024,
+    "itemName": "에메랄드 돔"
+  },
+  {
+    "itemCode": 1002212,
+    "itemName": "적마로"
+  },
+  {
+    "itemCode": 1002214,
+    "itemName": "흑마로"
+  },
+  {
+    "itemCode": 1002028,
+    "itemName": "실버 크루세이더 헬름"
+  },
+  {
+    "itemCode": 1002209,
+    "itemName": "녹 흑일모자"
+  },
+  {
+    "itemCode": 1002216,
+    "itemName": "아쿠아 골든서클릿"
+  },
+  {
+    "itemCode": 1002211,
+    "itemName": "청마로"
+  },
+  {
+    "itemCode": 1002210,
+    "itemName": "황 흑일모자"
+  },
+  {
+    "itemCode": 1002213,
+    "itemName": "녹마로"
+  },
+  {
+    "itemCode": 1002085,
+    "itemName": "미스릴 크루세이더 헬름"
+  },
+  {
+    "itemCode": 1002631,
+    "itemName": "브라운레더 오션 햇"
+  },
+  {
+    "itemCode": 1002215,
+    "itemName": "플레임 골든서클릿"
+  },
+  {
+    "itemCode": 1002217,
+    "itemName": "오렌지 골든서클릿"
+  },
+  {
+    "itemCode": 1002357,
+    "itemName": "자쿰의 투구"
+  },
+  {
+    "itemCode": 1002208,
+    "itemName": "청 흑일모자"
+  },
+  {
+    "itemCode": 1002218,
+    "itemName": "다크 골든서클릿"
+  },
+  {
+    "itemCode": 1002207,
+    "itemName": "적 흑일모자"
+  },
+  {
+    "itemCode": 1002086,
+    "itemName": "브론즈 크루세이더 헬름"
+  },
+  {
+    "itemCode": 1002101,
+    "itemName": "낡은 미스릴 노르만 헬름"
+  },
+  {
+    "itemCode": 1002022,
+    "itemName": "낡은 스틸 노르만 헬름"
+  },
+  {
+    "itemCode": 1002100,
+    "itemName": "낡은 브론즈 노르만 헬름"
+  },
+  {
+    "itemCode": 1002270,
+    "itemName": "흑궁우"
+  },
+  {
+    "itemCode": 1002249,
+    "itemName": "다크 하이드후드"
+  },
+  {
+    "itemCode": 1002084,
+    "itemName": "블루 오리엔트 헬멧"
+  },
+  {
+    "itemCode": 1002268,
+    "itemName": "토궁우"
+  },
+  {
+    "itemCode": 1002029,
+    "itemName": "레드 오리엔트 헬멧"
+  },
+  {
+    "itemCode": 1002244,
+    "itemName": "그린 세라피스"
+  },
+  {
+    "itemCode": 1002242,
+    "itemName": "레드 세라피스"
+  },
+  {
+    "itemCode": 1002246,
+    "itemName": "다크 세라피스"
+  },
+  {
+    "itemCode": 1002247,
+    "itemName": "브론즈 하이드후드"
+  },
+  {
+    "itemCode": 1002267,
+    "itemName": "적궁우"
+  },
+  {
+    "itemCode": 1002269,
+    "itemName": "백궁우"
+  },
+  {
+    "itemCode": 1002248,
+    "itemName": "실버 하이드후드"
+  },
+  {
+    "itemCode": 1002245,
+    "itemName": "화이트 세라피스"
+  },
+  {
+    "itemCode": 1002243,
+    "itemName": "블루 세라피스"
+  },
+  {
+    "itemCode": 1002634,
+    "itemName": "퍼플 카스트 린넨"
+  },
+  {
+    "itemCode": 1002289,
+    "itemName": "다크 웨어캡"
+  },
+  {
+    "itemCode": 1002283,
+    "itemName": "퍼플 루크"
+  },
+  {
+    "itemCode": 1002030,
+    "itemName": "실버 플레닛"
+  },
+  {
+    "itemCode": 1002252,
+    "itemName": "레드 키튼서클렛"
+  },
+  {
+    "itemCode": 1002095,
+    "itemName": "미스릴 플레닛"
+  },
+  {
+    "itemCode": 1002098,
+    "itemName": "골드 노르만 헬름"
+  },
+  {
+    "itemCode": 1002099,
+    "itemName": "미스릴 노르만 헬름"
+  },
+  {
+    "itemCode": 1002006,
+    "itemName": "본 헬름"
+  },
+  {
+    "itemCode": 1002021,
+    "itemName": "스틸 노르만 헬름"
+  },
+  {
+    "itemCode": 1002288,
+    "itemName": "그린 웨어캡"
+  },
+  {
+    "itemCode": 1002282,
+    "itemName": "블루 루크"
+  },
+  {
+    "itemCode": 1002285,
+    "itemName": "블러드 루크"
+  },
+  {
+    "itemCode": 1002284,
+    "itemName": "화이트 루크"
+  },
+  {
+    "itemCode": 1002637,
+    "itemName": "블랙 파이렛츠 반다나"
+  },
+  {
+    "itemCode": 1002254,
+    "itemName": "다크 키튼서클렛"
+  },
+  {
+    "itemCode": 1002094,
+    "itemName": "브론즈 플레닛"
+  },
+  {
+    "itemCode": 1002281,
+    "itemName": "브라운 루크"
+  },
+  {
+    "itemCode": 1002286,
+    "itemName": "블루 웨어캡"
+  },
+  {
+    "itemCode": 1002287,
+    "itemName": "베이지 웨어캡"
+  },
+  {
+    "itemCode": 1002253,
+    "itemName": "블루 키튼서클렛"
+  },
+  {
+    "itemCode": 1002328,
+    "itemName": "그린 피레타햇"
+  },
+  {
+    "itemCode": 1002277,
+    "itemName": "그린 골드윙캡"
+  },
+  {
+    "itemCode": 1002274,
+    "itemName": "다크 크로스햇"
+  },
+  {
+    "itemCode": 1002338,
+    "itemName": "레드 드래곤 바부타"
+  },
+  {
+    "itemCode": 1002276,
+    "itemName": "레드 골드윙캡"
+  },
+  {
+    "itemCode": 1002275,
+    "itemName": "블루 골드윙캡"
+  },
+  {
+    "itemCode": 1002271,
+    "itemName": "그린 크로스햇"
+  },
+  {
+    "itemCode": 1002272,
+    "itemName": "블루 크로스햇"
+  },
+  {
+    "itemCode": 1002278,
+    "itemName": "다크 골드윙캡"
+  },
+  {
+    "itemCode": 1002339,
+    "itemName": "블루 드래곤 바부타"
+  },
+  {
+    "itemCode": 1002340,
+    "itemName": "다크 드래곤 바부타"
+  },
+  {
+    "itemCode": 1002327,
+    "itemName": "브라운 피레타햇"
+  },
+  {
+    "itemCode": 1002329,
+    "itemName": "레드 피레타햇"
+  },
+  {
+    "itemCode": 1002640,
+    "itemName": "블루 샌프 보우트햇"
+  },
+  {
+    "itemCode": 1002330,
+    "itemName": "다크 피레타햇"
+  },
+  {
+    "itemCode": 1002273,
+    "itemName": "퍼플 크로스햇"
+  },
+  {
+    "itemCode": 1002366,
+    "itemName": "흑견랑건"
+  },
+  {
+    "itemCode": 1002324,
+    "itemName": "브라운 쉐이드햇"
+  },
+  {
+    "itemCode": 1002529,
+    "itemName": "블루 그레이스 헬멧"
+  },
+  {
+    "itemCode": 1002402,
+    "itemName": "레드 아데스햇"
+  },
+  {
+    "itemCode": 1002405,
+    "itemName": "다크 아데스햇"
+  },
+  {
+    "itemCode": 1002643,
+    "itemName": "레드 브레브하말"
+  },
+  {
+    "itemCode": 1002404,
+    "itemName": "그린 아데스햇"
+  },
+  {
+    "itemCode": 1002532,
+    "itemName": "다크 그레이스 헬멧"
+  },
+  {
+    "itemCode": 1002403,
+    "itemName": "블루 아데스햇"
+  },
+  {
+    "itemCode": 1002530,
+    "itemName": "레드 그레이스 헬멧"
+  },
+  {
+    "itemCode": 1002325,
+    "itemName": "퍼플 쉐이드햇"
+  },
+  {
+    "itemCode": 1002365,
+    "itemName": "적견랑건"
+  },
+  {
+    "itemCode": 1002326,
+    "itemName": "레드 쉐이드햇"
+  },
+  {
+    "itemCode": 1002363,
+    "itemName": "녹견랑건"
+  },
+  {
+    "itemCode": 1002528,
+    "itemName": "그린 그레이스 헬멧"
+  },
+  {
+    "itemCode": 1002323,
+    "itemName": "그린 쉐이드햇"
+  },
+  {
+    "itemCode": 1002531,
+    "itemName": "실버 그레이스 헬멧"
+  },
+  {
+    "itemCode": 1002379,
+    "itemName": "다크 니르첸 투구"
+  },
+  {
+    "itemCode": 1002400,
+    "itemName": "레드 바르햇"
+  },
+  {
+    "itemCode": 1002401,
+    "itemName": "다크 바르햇"
+  },
+  {
+    "itemCode": 1002407,
+    "itemName": "블루 아르나햇"
+  },
+  {
+    "itemCode": 1002406,
+    "itemName": "레드 아르나햇"
+  },
+  {
+    "itemCode": 1002381,
+    "itemName": "블루 카날 후드"
+  },
+  {
+    "itemCode": 1002378,
+    "itemName": "블루 니르첸 투구"
+  },
+  {
+    "itemCode": 1002380,
+    "itemName": "그린 카날 후드"
+  },
+  {
+    "itemCode": 1002382,
+    "itemName": "레드 카날 후드"
+  },
+  {
+    "itemCode": 1002398,
+    "itemName": "그린 바르햇"
+  },
+  {
+    "itemCode": 1002377,
+    "itemName": "그린 니르첸 투구"
+  },
+  {
+    "itemCode": 1002646,
+    "itemName": "블랙 폴락스 햇"
+  },
+  {
+    "itemCode": 1002550,
+    "itemName": "블랙 가리나 후드"
+  },
+  {
+    "itemCode": 1002773,
+    "itemName": "골드 드래곤 크라운"
+  },
+  {
+    "itemCode": 1002649,
+    "itemName": "카노푸스 햇"
+  },
+  {
+    "itemCode": 1002551,
+    "itemName": "블루 드래곤 투구"
+  },
+  {
+    "itemCode": 1002547,
+    "itemName": "레드 헌터"
+  },
+  {
+    "itemCode": 1002780,
+    "itemName": "타임리스 콘라드 헨켈"
+  },
+  {
+    "itemCode": 1082002,
+    "itemName": "노가다 목장갑"
+  },
+  {
+    "itemCode": 1082003,
+    "itemName": "주노"
+  },
+  {
+    "itemCode": 1082029,
+    "itemName": "브라운 듀오"
+  },
+  {
+    "itemCode": 1082180,
+    "itemName": "그린 래거 하프글로브"
+  },
+  {
+    "itemCode": 1082019,
+    "itemName": "레모나"
+  },
+  {
+    "itemCode": 1082012,
+    "itemName": "아르"
+  },
+  {
+    "itemCode": 1082000,
+    "itemName": "강철 반장갑"
+  },
+  {
+    "itemCode": 1082004,
+    "itemName": "베논"
+  },
+  {
+    "itemCode": 1082183,
+    "itemName": "브라운 레더 아머글로브"
+  },
+  {
+    "itemCode": 1082020,
+    "itemName": "블루 모리칸"
+  },
+  {
+    "itemCode": 1082028,
+    "itemName": "다크 메사나"
+  },
+  {
+    "itemCode": 1082001,
+    "itemName": "흰 무늬 반장갑"
+  },
+  {
+    "itemCode": 1082018,
+    "itemName": "다크 사바타"
+  },
+  {
+    "itemCode": 1082026,
+    "itemName": "오션 메사나"
+  },
+  {
+    "itemCode": 1082039,
+    "itemName": "다크 우드쉽"
+  },
+  {
+    "itemCode": 1082037,
+    "itemName": "브론즈 우드쉽"
+  },
+  {
+    "itemCode": 1082016,
+    "itemName": "블루 사바타"
+  },
+  {
+    "itemCode": 1082038,
+    "itemName": "미스릴 우드쉽"
+  },
+  {
+    "itemCode": 1082017,
+    "itemName": "레드 사바타"
+  },
+  {
+    "itemCode": 1082186,
+    "itemName": "하드레더 글로브"
+  },
+  {
+    "itemCode": 1082051,
+    "itemName": "레드 루티아"
+  },
+  {
+    "itemCode": 1082006,
+    "itemName": "오리할콘 미셀"
+  },
+  {
+    "itemCode": 1082189,
+    "itemName": "옐로우 타르티스"
+  },
+  {
+    "itemCode": 1082042,
+    "itemName": "스틸 실비아"
+  },
+  {
+    "itemCode": 1082050,
+    "itemName": "블랙 마커"
+  },
+  {
+    "itemCode": 1082053,
+    "itemName": "블랙 루티아"
+  },
+  {
+    "itemCode": 1082052,
+    "itemName": "블루 루티아"
+  },
+  {
+    "itemCode": 1082005,
+    "itemName": "스틸 미셀"
+  },
+  {
+    "itemCode": 1082007,
+    "itemName": "브론즈 미셀"
+  },
+  {
+    "itemCode": 1082049,
+    "itemName": "그린 마커"
+  },
+  {
+    "itemCode": 1082043,
+    "itemName": "실버 실비아"
+  },
+  {
+    "itemCode": 1082044,
+    "itemName": "골드 실비아"
+  },
+  {
+    "itemCode": 1082048,
+    "itemName": "브라운 마커"
+  },
+  {
+    "itemCode": 1082036,
+    "itemName": "다크 브리건"
+  },
+  {
+    "itemCode": 1082070,
+    "itemName": "골드 스케일러"
+  },
+  {
+    "itemCode": 1082035,
+    "itemName": "옐로우 브리건"
+  },
+  {
+    "itemCode": 1082056,
+    "itemName": "다크 노엘"
+  },
+  {
+    "itemCode": 1082047,
+    "itemName": "오리할콘 아르비욘"
+  },
+  {
+    "itemCode": 1082069,
+    "itemName": "미스릴 스케일러"
+  },
+  {
+    "itemCode": 1082068,
+    "itemName": "브론즈 스케일러"
+  },
+  {
+    "itemCode": 1082054,
+    "itemName": "레드 노엘"
+  },
+  {
+    "itemCode": 1082055,
+    "itemName": "블루 노엘"
+  },
+  {
+    "itemCode": 1082045,
+    "itemName": "골드 아르비욘"
+  },
+  {
+    "itemCode": 1082008,
+    "itemName": "스틸 브리건"
+  },
+  {
+    "itemCode": 1082046,
+    "itemName": "스틸 아르비욘"
+  },
+  {
+    "itemCode": 1082192,
+    "itemName": "브라운 쥬얼드"
+  },
+  {
+    "itemCode": 1082062,
+    "itemName": "레드 아르텐"
+  },
+  {
+    "itemCode": 1082064,
+    "itemName": "다크 아르텐"
+  },
+  {
+    "itemCode": 1082076,
+    "itemName": "골드 클리브"
+  },
+  {
+    "itemCode": 1082023,
+    "itemName": "아이언 너클"
+  },
+  {
+    "itemCode": 1082025,
+    "itemName": "다크 너클"
+  },
+  {
+    "itemCode": 1082024,
+    "itemName": "아다만티움 너클"
+  },
+  {
+    "itemCode": 1082022,
+    "itemName": "퍼플 모리칸"
+  },
+  {
+    "itemCode": 1082013,
+    "itemName": "블루 디로스"
+  },
+  {
+    "itemCode": 1082063,
+    "itemName": "블루 아르텐"
+  },
+  {
+    "itemCode": 1082074,
+    "itemName": "다크 클리브"
+  },
+  {
+    "itemCode": 1082072,
+    "itemName": "골드 브레이스"
+  },
+  {
+    "itemCode": 1082195,
+    "itemName": "브라운 바르비"
+  },
+  {
+    "itemCode": 1082075,
+    "itemName": "레드 클리브"
+  },
+  {
+    "itemCode": 1082071,
+    "itemName": "아쿠아 브레이스"
+  },
+  {
+    "itemCode": 1082073,
+    "itemName": "다크 브레이스"
+  },
+  {
+    "itemCode": 1082082,
+    "itemName": "블루 페넌스"
+  },
+  {
+    "itemCode": 1082083,
+    "itemName": "다크 윌로우"
+  },
+  {
+    "itemCode": 1082009,
+    "itemName": "스틸 브리스트"
+  },
+  {
+    "itemCode": 1082066,
+    "itemName": "황월 장갑"
+  },
+  {
+    "itemCode": 1082065,
+    "itemName": "청월 장갑"
+  },
+  {
+    "itemCode": 1082085,
+    "itemName": "레드 윌로우"
+  },
+  {
+    "itemCode": 1082198,
+    "itemName": "브라운 로이스"
+  },
+  {
+    "itemCode": 1082010,
+    "itemName": "미스릴 브리스트"
+  },
+  {
+    "itemCode": 1082081,
+    "itemName": "레드 페넌스"
+  },
+  {
+    "itemCode": 1082011,
+    "itemName": "골드 브리스트"
+  },
+  {
+    "itemCode": 1082084,
+    "itemName": "블루 윌로우"
+  },
+  {
+    "itemCode": 1082080,
+    "itemName": "다크 페넌스"
+  },
+  {
+    "itemCode": 1082067,
+    "itemName": "적월 장갑"
+  },
+  {
+    "itemCode": 1082086,
+    "itemName": "스틸 마누트"
+  },
+  {
+    "itemCode": 1082092,
+    "itemName": "브론즈 파우"
+  },
+  {
+    "itemCode": 1082061,
+    "itemName": "다크 클랜치"
+  },
+  {
+    "itemCode": 1082087,
+    "itemName": "골드 마누트"
+  },
+  {
+    "itemCode": 1082060,
+    "itemName": "사파이어 클랜치"
+  },
+  {
+    "itemCode": 1082090,
+    "itemName": "세피아 가너"
+  },
+  {
+    "itemCode": 1082093,
+    "itemName": "스틸 파우"
+  },
+  {
+    "itemCode": 1082059,
+    "itemName": "브론즈 클랜치"
+  },
+  {
+    "itemCode": 1082094,
+    "itemName": "골드 파우"
+  },
+  {
+    "itemCode": 1082088,
+    "itemName": "다크 마누트"
+  },
+  {
+    "itemCode": 1082089,
+    "itemName": "오커 가너"
+  },
+  {
+    "itemCode": 1082201,
+    "itemName": "블랙 슐트"
+  },
+  {
+    "itemCode": 1082091,
+    "itemName": "다크 가너"
+  },
+  {
+    "itemCode": 1082105,
+    "itemName": "다크 허스크"
+  },
+  {
+    "itemCode": 1082204,
+    "itemName": "블랙 비스크"
+  },
+  {
+    "itemCode": 1082108,
+    "itemName": "다크 아이즈"
+  },
+  {
+    "itemCode": 1082095,
+    "itemName": "브론즈 와이어스"
+  },
+  {
+    "itemCode": 1082104,
+    "itemName": "미스릴 허스크"
+  },
+  {
+    "itemCode": 1082097,
+    "itemName": "골드 와이어스"
+  },
+  {
+    "itemCode": 1082103,
+    "itemName": "브론즈 허스크"
+  },
+  {
+    "itemCode": 1082096,
+    "itemName": "실버 와이어스"
+  },
+  {
+    "itemCode": 1082107,
+    "itemName": "골드 아이즈"
+  },
+  {
+    "itemCode": 1082100,
+    "itemName": "다크 로린"
+  },
+  {
+    "itemCode": 1082106,
+    "itemName": "블루 아이즈"
+  },
+  {
+    "itemCode": 1082099,
+    "itemName": "블루 로린"
+  },
+  {
+    "itemCode": 1082098,
+    "itemName": "브라운 로린"
+  },
+  {
+    "itemCode": 1082118,
+    "itemName": "그린 로버"
+  },
+  {
+    "itemCode": 1082207,
+    "itemName": "블루얼 하프글로브"
+  },
+  {
+    "itemCode": 1082110,
+    "itemName": "블루 코든"
+  },
+  {
+    "itemCode": 1082119,
+    "itemName": "퍼플 로버"
+  },
+  {
+    "itemCode": 1082112,
+    "itemName": "다크 코든"
+  },
+  {
+    "itemCode": 1082117,
+    "itemName": "다크 엠페러"
+  },
+  {
+    "itemCode": 1082123,
+    "itemName": "다크 와이즈"
+  },
+  {
+    "itemCode": 1082111,
+    "itemName": "그린 코든"
+  },
+  {
+    "itemCode": 1082116,
+    "itemName": "블러드 엠페러"
+  },
+  {
+    "itemCode": 1082120,
+    "itemName": "블러드 로버"
+  },
+  {
+    "itemCode": 1082122,
+    "itemName": "블루 와이즈"
+  },
+  {
+    "itemCode": 1082121,
+    "itemName": "그린 와이즈"
+  },
+  {
+    "itemCode": 1082115,
+    "itemName": "에메랄드 엠페러"
+  },
+  {
+    "itemCode": 1082114,
+    "itemName": "사파이어 엠페러"
+  },
+  {
+    "itemCode": 1082109,
+    "itemName": "레드 코든"
+  },
+  {
+    "itemCode": 1082131,
+    "itemName": "블루 파쵸네"
+  },
+  {
+    "itemCode": 1082126,
+    "itemName": "그린 아데브"
+  },
+  {
+    "itemCode": 1082142,
+    "itemName": "그린 미스트라"
+  },
+  {
+    "itemCode": 1082132,
+    "itemName": "그린 파쵸네"
+  },
+  {
+    "itemCode": 1082130,
+    "itemName": "다크 페로치"
+  },
+  {
+    "itemCode": 1082133,
+    "itemName": "레드 파쵸네"
+  },
+  {
+    "itemCode": 1082127,
+    "itemName": "다크 아데브"
+  },
+  {
+    "itemCode": 1082134,
+    "itemName": "다크 파쵸네"
+  },
+  {
+    "itemCode": 1082210,
+    "itemName": "레드 마르티어"
+  },
+  {
+    "itemCode": 1082143,
+    "itemName": "퍼플 미스트라"
+  },
+  {
+    "itemCode": 1082128,
+    "itemName": "그린 페로치"
+  },
+  {
+    "itemCode": 1082129,
+    "itemName": "퍼플 페로치"
+  },
+  {
+    "itemCode": 1082144,
+    "itemName": "다크 미스트라"
+  },
+  {
+    "itemCode": 1082125,
+    "itemName": "레드 아데브"
+  },
+  {
+    "itemCode": 1082159,
+    "itemName": "블루 아르시나"
+  },
+  {
+    "itemCode": 1082138,
+    "itemName": "다크 아날린"
+  },
+  {
+    "itemCode": 1082153,
+    "itemName": "레드 시아르"
+  },
+  {
+    "itemCode": 1082140,
+    "itemName": "블루 코르뱅"
+  },
+  {
+    "itemCode": 1082213,
+    "itemName": "블랙 스켈듀크"
+  },
+  {
+    "itemCode": 1082158,
+    "itemName": "레드 아르시나"
+  },
+  {
+    "itemCode": 1082154,
+    "itemName": "퍼플 시아르"
+  },
+  {
+    "itemCode": 1082139,
+    "itemName": "그린 코르뱅"
+  },
+  {
+    "itemCode": 1082151,
+    "itemName": "그린 시아르"
+  },
+  {
+    "itemCode": 1082160,
+    "itemName": "그린 아르시나"
+  },
+  {
+    "itemCode": 1082135,
+    "itemName": "블루 아날린"
+  },
+  {
+    "itemCode": 1082141,
+    "itemName": "다크 코르뱅"
+  },
+  {
+    "itemCode": 1082152,
+    "itemName": "블루 시아르"
+  },
+  {
+    "itemCode": 1082136,
+    "itemName": "그린 아날린"
+  },
+  {
+    "itemCode": 1082164,
+    "itemName": "블루 엘리멘탈 글로브"
+  },
+  {
+    "itemCode": 1082163,
+    "itemName": "레드 헌터 글로브"
+  },
+  {
+    "itemCode": 1082216,
+    "itemName": "카노푸스 글로브"
+  },
+  {
+    "itemCode": 1082168,
+    "itemName": "블루 드래곤 건틀렛"
+  },
+  {
+    "itemCode": 1082167,
+    "itemName": "블랙 가리나 글로브"
+  },
+  {
+    "itemCode": 1072005,
+    "itemName": "가죽 샌들"
+  },
+  {
+    "itemCode": 1072038,
+    "itemName": "파란색 고무 장화"
+  },
+  {
+    "itemCode": 1072001,
+    "itemName": "빨간색 고무 장화"
+  },
+  {
+    "itemCode": 1072037,
+    "itemName": "노란색 고무 장화"
+  },
+  {
+    "itemCode": 1072044,
+    "itemName": "노란색 코우치"
+  },
+  {
+    "itemCode": 1072045,
+    "itemName": "파란색 코우치"
+  },
+  {
+    "itemCode": 1072071,
+    "itemName": "브라운 기더슈즈"
+  },
+  {
+    "itemCode": 1072006,
+    "itemName": "갈색 코우치"
+  },
+  {
+    "itemCode": 1072015,
+    "itemName": "브라운 하드래더 부츠"
+  },
+  {
+    "itemCode": 1072059,
+    "itemName": "그린 하드래더 부츠"
+  },
+  {
+    "itemCode": 1072070,
+    "itemName": "블루 기더슈즈"
+  },
+  {
+    "itemCode": 1072004,
+    "itemName": "흰색 고무신"
+  },
+  {
+    "itemCode": 1072042,
+    "itemName": "검정색 고무신"
+  },
+  {
+    "itemCode": 1072043,
+    "itemName": "꼬질꼬질한 고무신"
+  },
+  {
+    "itemCode": 1072029,
+    "itemName": "노란색 닌자 샌들"
+  },
+  {
+    "itemCode": 1072060,
+    "itemName": "브라운 우드탑"
+  },
+  {
+    "itemCode": 1072285,
+    "itemName": "브라운 래거 슬리퍼"
+  },
+  {
+    "itemCode": 1072009,
+    "itemName": "스틸 그리브"
+  },
+  {
+    "itemCode": 1072050,
+    "itemName": "브론즈 그리브"
+  },
+  {
+    "itemCode": 1072024,
+    "itemName": "블랙 니티"
+  },
+  {
+    "itemCode": 1072028,
+    "itemName": "흰색 닌자 샌들"
+  },
+  {
+    "itemCode": 1072031,
+    "itemName": "빨간색 닌자 샌들"
+  },
+  {
+    "itemCode": 1072016,
+    "itemName": "그린 우드탑"
+  },
+  {
+    "itemCode": 1072030,
+    "itemName": "파란색 닌자 샌들"
+  },
+  {
+    "itemCode": 1072023,
+    "itemName": "베이지 니티"
+  },
+  {
+    "itemCode": 1072061,
+    "itemName": "블루 우드탑"
+  },
+  {
+    "itemCode": 1072008,
+    "itemName": "고동색 아로아 슈즈"
+  },
+  {
+    "itemCode": 1072049,
+    "itemName": "초록색 아로아 슈즈"
+  },
+  {
+    "itemCode": 1072048,
+    "itemName": "갈색 아로아 슈즈"
+  },
+  {
+    "itemCode": 1072026,
+    "itemName": "래빗 헌터탑"
+  },
+  {
+    "itemCode": 1072019,
+    "itemName": "블루 쥬얼리 슈즈"
+  },
+  {
+    "itemCode": 1072068,
+    "itemName": "라이언 헌터탑"
+  },
+  {
+    "itemCode": 1072066,
+    "itemName": "파란색 에나멜 부츠"
+  },
+  {
+    "itemCode": 1072047,
+    "itemName": "블루 미들 래더"
+  },
+  {
+    "itemCode": 1072065,
+    "itemName": "빨간색 에나멜 부츠"
+  },
+  {
+    "itemCode": 1072288,
+    "itemName": "브라운 스키디 샌들"
+  },
+  {
+    "itemCode": 1072022,
+    "itemName": "검은색 에나멜 부츠"
+  },
+  {
+    "itemCode": 1072067,
+    "itemName": "베어 헌터탑"
+  },
+  {
+    "itemCode": 1072025,
+    "itemName": "디어 헌터탑"
+  },
+  {
+    "itemCode": 1072020,
+    "itemName": "퍼플 쥬얼리 슈즈"
+  },
+  {
+    "itemCode": 1072046,
+    "itemName": "오렌지 미들 래더"
+  },
+  {
+    "itemCode": 1072007,
+    "itemName": "브라운 미들 래더"
+  },
+  {
+    "itemCode": 1072063,
+    "itemName": "갈색 도로시 구두"
+  },
+  {
+    "itemCode": 1072017,
+    "itemName": "파란색 도로시 구두"
+  },
+  {
+    "itemCode": 1072062,
+    "itemName": "빨간색 도로시 구두"
+  },
+  {
+    "itemCode": 1072027,
+    "itemName": "브라운 잭부츠"
+  },
+  {
+    "itemCode": 1072052,
+    "itemName": "다크 워 부츠"
+  },
+  {
+    "itemCode": 1072086,
+    "itemName": "그린 래피 부츠"
+  },
+  {
+    "itemCode": 1072291,
+    "itemName": "브라운 우든크라그"
+  },
+  {
+    "itemCode": 1072085,
+    "itemName": "레드 래피 부츠"
+  },
+  {
+    "itemCode": 1072074,
+    "itemName": "블랙 윈드슈즈"
+  },
+  {
+    "itemCode": 1072011,
+    "itemName": "미스릴 워 부츠"
+  },
+  {
+    "itemCode": 1072053,
+    "itemName": "골드 워 부츠"
+  },
+  {
+    "itemCode": 1072069,
+    "itemName": "레드 잭부츠"
+  },
+  {
+    "itemCode": 1072051,
+    "itemName": "실버 워 부츠"
+  },
+  {
+    "itemCode": 1072087,
+    "itemName": "블랙 래피 부츠"
+  },
+  {
+    "itemCode": 1072073,
+    "itemName": "옐로우 윈드슈즈"
+  },
+  {
+    "itemCode": 1072072,
+    "itemName": "실버 윈드슈즈"
+  },
+  {
+    "itemCode": 1072055,
+    "itemName": "분홍색 가죽 구두"
+  },
+  {
+    "itemCode": 1072012,
+    "itemName": "빨간색 가죽 구두"
+  },
+  {
+    "itemCode": 1072056,
+    "itemName": "파란색 가죽 구두"
+  },
+  {
+    "itemCode": 1072054,
+    "itemName": "주황색 가죽 구두"
+  },
+  {
+    "itemCode": 1072077,
+    "itemName": "화이트 매직슈즈"
+  },
+  {
+    "itemCode": 1072041,
+    "itemName": "블러드 배틀 그리브"
+  },
+  {
+    "itemCode": 1072032,
+    "itemName": "브론즈 체인슈즈"
+  },
+  {
+    "itemCode": 1072003,
+    "itemName": "에메랄드 배틀 그리브"
+  },
+  {
+    "itemCode": 1072080,
+    "itemName": "블루 헌터부츠"
+  },
+  {
+    "itemCode": 1072082,
+    "itemName": "블랙 헌터부츠"
+  },
+  {
+    "itemCode": 1072078,
+    "itemName": "블랙 매직슈즈"
+  },
+  {
+    "itemCode": 1072039,
+    "itemName": "미스릴 배틀 그리브"
+  },
+  {
+    "itemCode": 1072294,
+    "itemName": "브라운 폴티 부츠"
+  },
+  {
+    "itemCode": 1072036,
+    "itemName": "골드 체인슈즈"
+  },
+  {
+    "itemCode": 1072076,
+    "itemName": "블루 매직슈즈"
+  },
+  {
+    "itemCode": 1072040,
+    "itemName": "실버 배틀 그리브"
+  },
+  {
+    "itemCode": 1072033,
+    "itemName": "아이언 체인슈즈"
+  },
+  {
+    "itemCode": 1072075,
+    "itemName": "레드 매직슈즈"
+  },
+  {
+    "itemCode": 1072083,
+    "itemName": "브라운 헌터부츠"
+  },
+  {
+    "itemCode": 1072079,
+    "itemName": "레드 헌터부츠"
+  },
+  {
+    "itemCode": 1072081,
+    "itemName": "그린 헌터부츠"
+  },
+  {
+    "itemCode": 1072035,
+    "itemName": "실버 체인슈즈"
+  },
+  {
+    "itemCode": 1072018,
+    "itemName": "파란색 캔버스화"
+  },
+  {
+    "itemCode": 1072064,
+    "itemName": "빨간색 캔버스화"
+  },
+  {
+    "itemCode": 1072091,
+    "itemName": "블랙 솔트 슈즈"
+  },
+  {
+    "itemCode": 1072297,
+    "itemName": "브라운 로코트 슈즈"
+  },
+  {
+    "itemCode": 1072089,
+    "itemName": "퍼플 솔트 슈즈"
+  },
+  {
+    "itemCode": 1072002,
+    "itemName": "스틸 티거"
+  },
+  {
+    "itemCode": 1072105,
+    "itemName": "그린 라인부츠"
+  },
+  {
+    "itemCode": 1072104,
+    "itemName": "레드 라인부츠"
+  },
+  {
+    "itemCode": 1072090,
+    "itemName": "레드 솔트 슈즈"
+  },
+  {
+    "itemCode": 1072102,
+    "itemName": "그린 실키부츠"
+  },
+  {
+    "itemCode": 1072103,
+    "itemName": "레드 실키부츠"
+  },
+  {
+    "itemCode": 1072101,
+    "itemName": "블루 실키부츠"
+  },
+  {
+    "itemCode": 1072106,
+    "itemName": "블루 라인부츠"
+  },
+  {
+    "itemCode": 1072112,
+    "itemName": "미스릴 티거"
+  },
+  {
+    "itemCode": 1072113,
+    "itemName": "다크 티거"
+  },
+  {
+    "itemCode": 1072126,
+    "itemName": "자 진월장화"
+  },
+  {
+    "itemCode": 1072117,
+    "itemName": "다크 문슈즈"
+  },
+  {
+    "itemCode": 1072000,
+    "itemName": "황 진월장화"
+  },
+  {
+    "itemCode": 1072109,
+    "itemName": "옐로우 하프슈즈"
+  },
+  {
+    "itemCode": 1072114,
+    "itemName": "레드 문슈즈"
+  },
+  {
+    "itemCode": 1072118,
+    "itemName": "레드 피에르슈즈"
+  },
+  {
+    "itemCode": 1072300,
+    "itemName": "브라운 레더크라그"
+  },
+  {
+    "itemCode": 1072107,
+    "itemName": "레드 하프슈즈"
+  },
+  {
+    "itemCode": 1072127,
+    "itemName": "청 진월장화"
+  },
+  {
+    "itemCode": 1072108,
+    "itemName": "그린 하프슈즈"
+  },
+  {
+    "itemCode": 1072119,
+    "itemName": "옐로우 피에르슈즈"
+  },
+  {
+    "itemCode": 1072116,
+    "itemName": "골드 문슈즈"
+  },
+  {
+    "itemCode": 1072120,
+    "itemName": "브라운 피에르슈즈"
+  },
+  {
+    "itemCode": 1072121,
+    "itemName": "블루 피에르슈즈"
+  },
+  {
+    "itemCode": 1072115,
+    "itemName": "블루 문슈즈"
+  },
+  {
+    "itemCode": 1072110,
+    "itemName": "블루 하프슈즈"
+  },
+  {
+    "itemCode": 1072124,
+    "itemName": "블루 네일슈즈"
+  },
+  {
+    "itemCode": 1072134,
+    "itemName": "오리할콘 힐던부츠"
+  },
+  {
+    "itemCode": 1072122,
+    "itemName": "브라운 네일슈즈"
+  },
+  {
+    "itemCode": 1072140,
+    "itemName": "핑크 골든윈드슈즈"
+  },
+  {
+    "itemCode": 1072133,
+    "itemName": "미스릴 힐던부츠"
+  },
+  {
+    "itemCode": 1072135,
+    "itemName": "골드 힐던부츠"
+  },
+  {
+    "itemCode": 1072141,
+    "itemName": "블루 골든윈드슈즈"
+  },
+  {
+    "itemCode": 1072143,
+    "itemName": "그린 골든윈드슈즈"
+  },
+  {
+    "itemCode": 1072142,
+    "itemName": "퍼플 골든윈드슈즈"
+  },
+  {
+    "itemCode": 1072132,
+    "itemName": "에메랄드 힐던부츠"
+  },
+  {
+    "itemCode": 1072125,
+    "itemName": "퍼플 네일슈즈"
+  },
+  {
+    "itemCode": 1072128,
+    "itemName": "블루 고니슈즈"
+  },
+  {
+    "itemCode": 1072130,
+    "itemName": "레드 고니슈즈"
+  },
+  {
+    "itemCode": 1072131,
+    "itemName": "퍼플 고니슈즈"
+  },
+  {
+    "itemCode": 1072123,
+    "itemName": "그린 네일슈즈"
+  },
+  {
+    "itemCode": 1072303,
+    "itemName": "브라운 더블트 부츠"
+  },
+  {
+    "itemCode": 1072129,
+    "itemName": "그린 고니슈즈"
+  },
+  {
+    "itemCode": 1072145,
+    "itemName": "블루 고어부츠"
+  },
+  {
+    "itemCode": 1072139,
+    "itemName": "블루 앵클부츠"
+  },
+  {
+    "itemCode": 1072137,
+    "itemName": "그린 앵클부츠"
+  },
+  {
+    "itemCode": 1072149,
+    "itemName": "블러드 카멜부츠"
+  },
+  {
+    "itemCode": 1072146,
+    "itemName": "그린 고어부츠"
+  },
+  {
+    "itemCode": 1072150,
+    "itemName": "블러드 모스부츠"
+  },
+  {
+    "itemCode": 1072151,
+    "itemName": "골드 모스부츠"
+  },
+  {
+    "itemCode": 1072148,
+    "itemName": "오리할콘 카멜부츠"
+  },
+  {
+    "itemCode": 1072147,
+    "itemName": "사파이어 카멜부츠"
+  },
+  {
+    "itemCode": 1072144,
+    "itemName": "레드 고어부츠"
+  },
+  {
+    "itemCode": 1072306,
+    "itemName": "블랙 바실즈 부츠"
+  },
+  {
+    "itemCode": 1072152,
+    "itemName": "다크 모스부츠"
+  },
+  {
+    "itemCode": 1072136,
+    "itemName": "핑크 앵클부츠"
+  },
+  {
+    "itemCode": 1072138,
+    "itemName": "오렌지 앵클부츠"
+  },
+  {
+    "itemCode": 1072157,
+    "itemName": "블루 라피스샌들"
+  },
+  {
+    "itemCode": 1072163,
+    "itemName": "레드 루티드슈즈"
+  },
+  {
+    "itemCode": 1072167,
+    "itemName": "다크 리넥스슈즈"
+  },
+  {
+    "itemCode": 1072155,
+    "itemName": "퍼플 카젠부츠"
+  },
+  {
+    "itemCode": 1072156,
+    "itemName": "다크 카젠부츠"
+  },
+  {
+    "itemCode": 1072158,
+    "itemName": "레드 라피스샌들"
+  },
+  {
+    "itemCode": 1072165,
+    "itemName": "베이지 리넥스슈즈"
+  },
+  {
+    "itemCode": 1072164,
+    "itemName": "블루 리넥스슈즈"
+  },
+  {
+    "itemCode": 1072161,
+    "itemName": "퍼플 루티드슈즈"
+  },
+  {
+    "itemCode": 1072159,
+    "itemName": "브라운 라피스샌들"
+  },
+  {
+    "itemCode": 1072166,
+    "itemName": "그린 리넥스슈즈"
+  },
+  {
+    "itemCode": 1072162,
+    "itemName": "블루 루티드슈즈"
+  },
+  {
+    "itemCode": 1072309,
+    "itemName": "블랙 보이슨 슈즈"
+  },
+  {
+    "itemCode": 1072154,
+    "itemName": "블루 카젠부츠"
+  },
+  {
+    "itemCode": 1072160,
+    "itemName": "골드 라피스샌들"
+  },
+  {
+    "itemCode": 1072211,
+    "itemName": "블루 리버스부츠"
+  },
+  {
+    "itemCode": 1072172,
+    "itemName": "그린 피레타부츠"
+  },
+  {
+    "itemCode": 1072179,
+    "itemName": "다크 크리시아슈즈"
+  },
+  {
+    "itemCode": 1072177,
+    "itemName": "그린 크리시아슈즈"
+  },
+  {
+    "itemCode": 1072173,
+    "itemName": "레드 피레타부츠"
+  },
+  {
+    "itemCode": 1072184,
+    "itemName": "그린 윙부츠"
+  },
+  {
+    "itemCode": 1072174,
+    "itemName": "다크 피레타부츠"
+  },
+  {
+    "itemCode": 1072182,
+    "itemName": "블루 윙부츠"
+  },
+  {
+    "itemCode": 1072210,
+    "itemName": "레드 리버스부츠"
+  },
+  {
+    "itemCode": 1072312,
+    "itemName": "블루얼 페긴트"
+  },
+  {
+    "itemCode": 1072178,
+    "itemName": "퍼플 크리시아슈즈"
+  },
+  {
+    "itemCode": 1072212,
+    "itemName": "다크 리버스부츠"
+  },
+  {
+    "itemCode": 1072183,
+    "itemName": "레드 윙부츠"
+  },
+  {
+    "itemCode": 1072185,
+    "itemName": "다크 윙부츠"
+  },
+  {
+    "itemCode": 1072315,
+    "itemName": "블랙 마르킨츠"
+  },
+  {
+    "itemCode": 1072198,
+    "itemName": "다크 워 그리브"
+  },
+  {
+    "itemCode": 1072197,
+    "itemName": "오리할콘 워 그리브"
+  },
+  {
+    "itemCode": 1072209,
+    "itemName": "다크 넬리슈즈"
+  },
+  {
+    "itemCode": 1072196,
+    "itemName": "에메랄드 워 그리브"
+  },
+  {
+    "itemCode": 1072205,
+    "itemName": "다크 아데스슈즈"
+  },
+  {
+    "itemCode": 1072207,
+    "itemName": "그린 넬리슈즈"
+  },
+  {
+    "itemCode": 1072193,
+    "itemName": "브라운 쉐도우부츠"
+  },
+  {
+    "itemCode": 1072206,
+    "itemName": "블루 넬리슈즈"
+  },
+  {
+    "itemCode": 1072194,
+    "itemName": "퍼플 쉐도우부츠"
+  },
+  {
+    "itemCode": 1072203,
+    "itemName": "레드 아데스슈즈"
+  },
+  {
+    "itemCode": 1072195,
+    "itemName": "레드 쉐도우부츠"
+  },
+  {
+    "itemCode": 1072204,
+    "itemName": "그린 아데스슈즈"
+  },
+  {
+    "itemCode": 1072208,
+    "itemName": "레드 넬리슈즈"
+  },
+  {
+    "itemCode": 1072192,
+    "itemName": "그린 쉐도우부츠"
+  },
+  {
+    "itemCode": 1072225,
+    "itemName": "레드 바르슈즈"
+  },
+  {
+    "itemCode": 1072222,
+    "itemName": "다크 크리센트부츠"
+  },
+  {
+    "itemCode": 1072227,
+    "itemName": "레드 아르나슈즈"
+  },
+  {
+    "itemCode": 1072220,
+    "itemName": "그린 크리센트부츠"
+  },
+  {
+    "itemCode": 1072221,
+    "itemName": "블루 크리센트부츠"
+  },
+  {
+    "itemCode": 1072216,
+    "itemName": "다크 가티나부츠"
+  },
+  {
+    "itemCode": 1072213,
+    "itemName": "그린 가티나부츠"
+  },
+  {
+    "itemCode": 1072224,
+    "itemName": "블루 바르슈즈"
+  },
+  {
+    "itemCode": 1072223,
+    "itemName": "그린 바르슈즈"
+  },
+  {
+    "itemCode": 1072215,
+    "itemName": "레드 가티나부츠"
+  },
+  {
+    "itemCode": 1072228,
+    "itemName": "블루 아르나슈즈"
+  },
+  {
+    "itemCode": 1072214,
+    "itemName": "블루 가티나부츠"
+  },
+  {
+    "itemCode": 1072226,
+    "itemName": "다크 바르슈즈"
+  },
+  {
+    "itemCode": 1072318,
+    "itemName": "블랙 듀크바킨 슈즈"
+  },
+  {
+    "itemCode": 1072229,
+    "itemName": "그린 아르나슈즈"
+  },
+  {
+    "itemCode": 1072272,
+    "itemName": "블랙 가리나슈즈"
+  },
+  {
+    "itemCode": 1072269,
+    "itemName": "레드 헌터 슈즈"
+  },
+  {
+    "itemCode": 1072321,
+    "itemName": "카노푸스 부츠"
+  },
+  {
+    "itemCode": 1072273,
+    "itemName": "블루 드래곤 부츠"
+  },
+  {
+    "itemCode": 1072268,
+    "itemName": "블루 엘리멘탈 슈즈"
+  },
+  {
+    "itemCode": 1052095,
+    "itemName": "브라운 로키 슈트"
+  },
+  {
+    "itemCode": 1050010,
+    "itemName": "그린 플레로브"
+  },
+  {
+    "itemCode": 1050009,
+    "itemName": "블루 플레로브"
+  },
+  {
+    "itemCode": 1051000,
+    "itemName": "스틸 메일"
+  },
+  {
+    "itemCode": 1052098,
+    "itemName": "브라운 코튼래거"
+  },
+  {
+    "itemCode": 1050006,
+    "itemName": "빨간색 검도복"
+  },
+  {
+    "itemCode": 1050007,
+    "itemName": "흰색 검도복"
+  },
+  {
+    "itemCode": 1052101,
+    "itemName": "베이지 카리브어"
+  },
+  {
+    "itemCode": 1050005,
+    "itemName": "파란색 검도복"
+  },
+  {
+    "itemCode": 1050023,
+    "itemName": "블루 도로스 로브"
+  },
+  {
+    "itemCode": 1051003,
+    "itemName": "브라운 도로네스 로브"
+  },
+  {
+    "itemCode": 1050024,
+    "itemName": "옐로우 도로스 로브"
+  },
+  {
+    "itemCode": 1051005,
+    "itemName": "레드 도로네스 로브"
+  },
+  {
+    "itemCode": 1050025,
+    "itemName": "화이트 도로스 로브"
+  },
+  {
+    "itemCode": 1050001,
+    "itemName": "브라운 도로스 로브"
+  },
+  {
+    "itemCode": 1051004,
+    "itemName": "퍼플 도로네스 로브"
+  },
+  {
+    "itemCode": 1052104,
+    "itemName": "브라운 툴크갤리"
+  },
+  {
+    "itemCode": 1050003,
+    "itemName": "파란색 사제의 로브"
+  },
+  {
+    "itemCode": 1050027,
+    "itemName": "검은색 사제의 로브"
+  },
+  {
+    "itemCode": 1050026,
+    "itemName": "흰색 사제의 로브"
+  },
+  {
+    "itemCode": 1050028,
+    "itemName": "초록색 사제의 로브"
+  },
+  {
+    "itemCode": 1052107,
+    "itemName": "브라운 폴라아드"
+  },
+  {
+    "itemCode": 1051013,
+    "itemName": "옐로우 잉그리트"
+  },
+  {
+    "itemCode": 1051011,
+    "itemName": "레드 잉그리트"
+  },
+  {
+    "itemCode": 1051012,
+    "itemName": "블루 잉그리트"
+  },
+  {
+    "itemCode": 1051017,
+    "itemName": "빨간색 가운"
+  },
+  {
+    "itemCode": 1050011,
+    "itemName": "흑룡포"
+  },
+  {
+    "itemCode": 1051010,
+    "itemName": "다크 잉그리트"
+  },
+  {
+    "itemCode": 1050029,
+    "itemName": "다크 데빌즈 로브"
+  },
+  {
+    "itemCode": 1050031,
+    "itemName": "화이트 데빌즈 로브"
+  },
+  {
+    "itemCode": 1050002,
+    "itemName": "블러드 데빌즈 로브"
+  },
+  {
+    "itemCode": 1050030,
+    "itemName": "블루 데빌즈 로브"
+  },
+  {
+    "itemCode": 1050022,
+    "itemName": "다크 크로스 체인메일"
+  },
+  {
+    "itemCode": 1051008,
+    "itemName": "블루 후르츠"
+  },
+  {
+    "itemCode": 1050021,
+    "itemName": "블루 크로스 체인메일"
+  },
+  {
+    "itemCode": 1051001,
+    "itemName": "에메랄드 메일"
+  },
+  {
+    "itemCode": 1051007,
+    "itemName": "레드 후르츠"
+  },
+  {
+    "itemCode": 1051015,
+    "itemName": "블러드 메일"
+  },
+  {
+    "itemCode": 1051009,
+    "itemName": "퍼플 후르츠"
+  },
+  {
+    "itemCode": 1052110,
+    "itemName": "블루 브레이스룩"
+  },
+  {
+    "itemCode": 1051014,
+    "itemName": "사파이어 메일"
+  },
+  {
+    "itemCode": 1050000,
+    "itemName": "화이트 크로스 체인메일"
+  },
+  {
+    "itemCode": 1051006,
+    "itemName": "다크 후르츠"
+  },
+  {
+    "itemCode": 1051016,
+    "itemName": "실버 메일"
+  },
+  {
+    "itemCode": 1051023,
+    "itemName": "퍼플 문라이트"
+  },
+  {
+    "itemCode": 1051025,
+    "itemName": "블루 문라이트"
+  },
+  {
+    "itemCode": 1050039,
+    "itemName": "다크 스타라이트"
+  },
+  {
+    "itemCode": 1050035,
+    "itemName": "브라운 스타라이트"
+  },
+  {
+    "itemCode": 1050038,
+    "itemName": "블루 스타라이트"
+  },
+  {
+    "itemCode": 1050037,
+    "itemName": "그린 스타라이트"
+  },
+  {
+    "itemCode": 1051024,
+    "itemName": "레드 문라이트"
+  },
+  {
+    "itemCode": 1050036,
+    "itemName": "레드 스타라이트"
+  },
+  {
+    "itemCode": 1051027,
+    "itemName": "브라운 문라이트"
+  },
+  {
+    "itemCode": 1051026,
+    "itemName": "다크 문라이트"
+  },
+  {
+    "itemCode": 1052113,
+    "itemName": "레드 바르베이"
+  },
+  {
+    "itemCode": 1051032,
+    "itemName": "블루 칼라프"
+  },
+  {
+    "itemCode": 1050047,
+    "itemName": "오렌지 칼라스"
+  },
+  {
+    "itemCode": 1050046,
+    "itemName": "레드 칼라스"
+  },
+  {
+    "itemCode": 1051030,
+    "itemName": "다크 칼라프"
+  },
+  {
+    "itemCode": 1051033,
+    "itemName": "레드 칼라프"
+  },
+  {
+    "itemCode": 1050049,
+    "itemName": "다크 칼라스"
+  },
+  {
+    "itemCode": 1051034,
+    "itemName": "오렌지 칼라프"
+  },
+  {
+    "itemCode": 1051031,
+    "itemName": "화이트 칼라프"
+  },
+  {
+    "itemCode": 1050045,
+    "itemName": "블루 칼라스"
+  },
+  {
+    "itemCode": 1050048,
+    "itemName": "화이트 칼라스"
+  },
+  {
+    "itemCode": 1051039,
+    "itemName": "레드 루이마리"
+  },
+  {
+    "itemCode": 1051037,
+    "itemName": "블루 루이마리"
+  },
+  {
+    "itemCode": 1050051,
+    "itemName": "적선백궁"
+  },
+  {
+    "itemCode": 1051038,
+    "itemName": "그린 루이마리"
+  },
+  {
+    "itemCode": 1052116,
+    "itemName": "그린 플레스티어"
+  },
+  {
+    "itemCode": 1050052,
+    "itemName": "청선백궁"
+  },
+  {
+    "itemCode": 1051047,
+    "itemName": "다크 아나카룬"
+  },
+  {
+    "itemCode": 1050054,
+    "itemName": "레드 아나카문"
+  },
+  {
+    "itemCode": 1051046,
+    "itemName": "화이트 아나카룬"
+  },
+  {
+    "itemCode": 1051044,
+    "itemName": "블루 아나카룬"
+  },
+  {
+    "itemCode": 1050053,
+    "itemName": "블루 아나카문"
+  },
+  {
+    "itemCode": 1050056,
+    "itemName": "다크 아나카문"
+  },
+  {
+    "itemCode": 1051045,
+    "itemName": "레드 아나카룬"
+  },
+  {
+    "itemCode": 1050055,
+    "itemName": "화이트 아나카문"
+  },
+  {
+    "itemCode": 1050058,
+    "itemName": "주자로"
+  },
+  {
+    "itemCode": 1052119,
+    "itemName": "블랙 로얄바롱"
+  },
+  {
+    "itemCode": 1051041,
+    "itemName": "적초로"
+  },
+  {
+    "itemCode": 1051043,
+    "itemName": "황초로"
+  },
+  {
+    "itemCode": 1051042,
+    "itemName": "청초로"
+  },
+  {
+    "itemCode": 1050059,
+    "itemName": "청자로"
+  },
+  {
+    "itemCode": 1050060,
+    "itemName": "적자로"
+  },
+  {
+    "itemCode": 1051063,
+    "itemName": "베이지 리네로스"
+  },
+  {
+    "itemCode": 1050063,
+    "itemName": "그린 리넥스"
+  },
+  {
+    "itemCode": 1052122,
+    "itemName": "레드 비스카"
+  },
+  {
+    "itemCode": 1050064,
+    "itemName": "다크 리넥스"
+  },
+  {
+    "itemCode": 1051062,
+    "itemName": "블루 리네로스"
+  },
+  {
+    "itemCode": 1050062,
+    "itemName": "베이지 리넥스"
+  },
+  {
+    "itemCode": 1051064,
+    "itemName": "그린 리네로스"
+  },
+  {
+    "itemCode": 1051065,
+    "itemName": "다크 리네로스"
+  },
+  {
+    "itemCode": 1050061,
+    "itemName": "블루 리넥스"
+  },
+  {
+    "itemCode": 1051056,
+    "itemName": "그린 크리시아"
+  },
+  {
+    "itemCode": 1051055,
+    "itemName": "다크 레퀴에르(여)"
+  },
+  {
+    "itemCode": 1050070,
+    "itemName": "다크 레퀴엠(남)"
+  },
+  {
+    "itemCode": 1050069,
+    "itemName": "브라운 레퀴엠(남)"
+  },
+  {
+    "itemCode": 1050067,
+    "itemName": "블루 레퀴엠(남)"
+  },
+  {
+    "itemCode": 1050068,
+    "itemName": "레드 레퀴엠(남)"
+  },
+  {
+    "itemCode": 1051054,
+    "itemName": "브라운 레퀴에르(여)"
+  },
+  {
+    "itemCode": 1051053,
+    "itemName": "레드 레퀴에르(여)"
+  },
+  {
+    "itemCode": 1051058,
+    "itemName": "다크 크리시아"
+  },
+  {
+    "itemCode": 1050074,
+    "itemName": "다크 크리시스"
+  },
+  {
+    "itemCode": 1051057,
+    "itemName": "퍼플 크리시아"
+  },
+  {
+    "itemCode": 1050072,
+    "itemName": "그린 크리시스"
+  },
+  {
+    "itemCode": 1050073,
+    "itemName": "블루 크리시스"
+  },
+  {
+    "itemCode": 1050081,
+    "itemName": "레드 배틀로드"
+  },
+  {
+    "itemCode": 1050077,
+    "itemName": "그린 프리스"
+  },
+  {
+    "itemCode": 1051067,
+    "itemName": "블루 프리아"
+  },
+  {
+    "itemCode": 1052125,
+    "itemName": "화이트 피니얼"
+  },
+  {
+    "itemCode": 1050075,
+    "itemName": "레드 프리스"
+  },
+  {
+    "itemCode": 1050082,
+    "itemName": "블루 배틀로드"
+  },
+  {
+    "itemCode": 1050083,
+    "itemName": "다크 배틀로드"
+  },
+  {
+    "itemCode": 1051066,
+    "itemName": "레드 프리아"
+  },
+  {
+    "itemCode": 1050078,
+    "itemName": "다크 프리스"
+  },
+  {
+    "itemCode": 1051077,
+    "itemName": "옐로우 배틀엠프리스"
+  },
+  {
+    "itemCode": 1051078,
+    "itemName": "레드 배틀엠프리스"
+  },
+  {
+    "itemCode": 1050080,
+    "itemName": "그린 배틀로드"
+  },
+  {
+    "itemCode": 1051079,
+    "itemName": "블루 배틀엠프리스"
+  },
+  {
+    "itemCode": 1050076,
+    "itemName": "블루 프리스"
+  },
+  {
+    "itemCode": 1051069,
+    "itemName": "다크 프리아"
+  },
+  {
+    "itemCode": 1051068,
+    "itemName": "그린 프리아"
+  },
+  {
+    "itemCode": 1051080,
+    "itemName": "다크 배틀엠프리스"
+  },
+  {
+    "itemCode": 1050094,
+    "itemName": "적견랑포"
+  },
+  {
+    "itemCode": 1050093,
+    "itemName": "청견랑포"
+  },
+  {
+    "itemCode": 1051097,
+    "itemName": "흑견랑포"
+  },
+  {
+    "itemCode": 1051095,
+    "itemName": "청견랑포"
+  },
+  {
+    "itemCode": 1051094,
+    "itemName": "녹견랑포"
+  },
+  {
+    "itemCode": 1050092,
+    "itemName": "녹견랑포"
+  },
+  {
+    "itemCode": 1050095,
+    "itemName": "흑견랑포"
+  },
+  {
+    "itemCode": 1051096,
+    "itemName": "적견랑포"
+  },
+  {
+    "itemCode": 1050090,
+    "itemName": "그린 아데스"
+  },
+  {
+    "itemCode": 1050091,
+    "itemName": "다크 아데스"
+  },
+  {
+    "itemCode": 1051082,
+    "itemName": "레드 아네스"
+  },
+  {
+    "itemCode": 1050088,
+    "itemName": "레드 아데스"
+  },
+  {
+    "itemCode": 1052128,
+    "itemName": "화이트 마르퀴니"
+  },
+  {
+    "itemCode": 1050089,
+    "itemName": "블루 아데스"
+  },
+  {
+    "itemCode": 1051085,
+    "itemName": "다크 아네스"
+  },
+  {
+    "itemCode": 1051083,
+    "itemName": "블루 아네스"
+  },
+  {
+    "itemCode": 1051084,
+    "itemName": "그린 아네스"
+  },
+  {
+    "itemCode": 1051104,
+    "itemName": "다크 바즈라"
+  },
+  {
+    "itemCode": 1051103,
+    "itemName": "레드 바즈라"
+  },
+  {
+    "itemCode": 1050104,
+    "itemName": "레드 바루나"
+  },
+  {
+    "itemCode": 1050105,
+    "itemName": "다크 바루나"
+  },
+  {
+    "itemCode": 1051101,
+    "itemName": "그린 바즈라"
+  },
+  {
+    "itemCode": 1050102,
+    "itemName": "그린 바루나"
+  },
+  {
+    "itemCode": 1050103,
+    "itemName": "블루 바루나"
+  },
+  {
+    "itemCode": 1051102,
+    "itemName": "블루 바즈라"
+  },
+  {
+    "itemCode": 1051105,
+    "itemName": "그린 아르미스"
+  },
+  {
+    "itemCode": 1051092,
+    "itemName": "레드 카테"
+  },
+  {
+    "itemCode": 1050098,
+    "itemName": "레드 카티나스"
+  },
+  {
+    "itemCode": 1050107,
+    "itemName": "블루 아르주나"
+  },
+  {
+    "itemCode": 1050097,
+    "itemName": "블루 카티나스"
+  },
+  {
+    "itemCode": 1050108,
+    "itemName": "레드 아르주나"
+  },
+  {
+    "itemCode": 1051093,
+    "itemName": "다크 카테"
+  },
+  {
+    "itemCode": 1050106,
+    "itemName": "그린 아르주나"
+  },
+  {
+    "itemCode": 1052131,
+    "itemName": "레드 벨리듀크"
+  },
+  {
+    "itemCode": 1051091,
+    "itemName": "블루 카테"
+  },
+  {
+    "itemCode": 1050099,
+    "itemName": "다크 카티나스"
+  },
+  {
+    "itemCode": 1051107,
+    "itemName": "레드 아르미스"
+  },
+  {
+    "itemCode": 1051106,
+    "itemName": "블루 아르미스"
+  },
+  {
+    "itemCode": 1052076,
+    "itemName": "블랙 로타네브"
+  },
+  {
+    "itemCode": 1052134,
+    "itemName": "카노푸스 슈트"
+  },
+  {
+    "itemCode": 1052075,
+    "itemName": "블루 드래곤 아머"
+  },
+  {
+    "itemCode": 1052071,
+    "itemName": "레드 맨틀"
+  },
+  {
+    "itemCode": 1052072,
+    "itemName": "블랙 가리나"
+  },
+  {
+    "itemCode": 1032001,
+    "itemName": "한쪽 은 귀고리"
+  },
+  {
+    "itemCode": 1032003,
+    "itemName": "자수정 귀고리"
+  },
+  {
+    "itemCode": 1032000,
+    "itemName": "추 귀고리"
+  },
+  {
+    "itemCode": 1032009,
+    "itemName": "옐로우 스퀘어"
+  },
+  {
+    "itemCode": 1032004,
+    "itemName": "금 링 귀고리"
+  },
+  {
+    "itemCode": 1032005,
+    "itemName": "레드 크로스링"
+  },
+  {
+    "itemCode": 1032010,
+    "itemName": "별 귀고리"
+  },
+  {
+    "itemCode": 1032007,
+    "itemName": "에메랄드 귀고리"
+  },
+  {
+    "itemCode": 1032006,
+    "itemName": "번개 귀고리"
+  },
+  {
+    "itemCode": 1032008,
+    "itemName": "캣츠 아이"
+  },
+  {
+    "itemCode": 1032002,
+    "itemName": "사파이어 귀고리"
+  },
+  {
+    "itemCode": 1032011,
+    "itemName": "블루 문"
+  },
+  {
+    "itemCode": 1032018,
+    "itemName": "펜지 이어링"
+  },
+  {
+    "itemCode": 1032013,
+    "itemName": "빨간하트 귀고리"
+  },
+  {
+    "itemCode": 1032012,
+    "itemName": "해골 귀고리"
+  },
+  {
+    "itemCode": 1032021,
+    "itemName": "홀리 크로스링"
+  },
+  {
+    "itemCode": 1032019,
+    "itemName": "크리스탈 플라워링"
+  },
+  {
+    "itemCode": 1032014,
+    "itemName": "분홍꽃 귀고리"
+  },
+  {
+    "itemCode": 1032020,
+    "itemName": "골드드롭 이어링"
+  },
+  {
+    "itemCode": 1032015,
+    "itemName": "메탈실버 이어링"
+  },
+  {
+    "itemCode": 1032022,
+    "itemName": "하프 이어링"
+  },
+  {
+    "itemCode": 1032016,
+    "itemName": "메탈하트 이어링"
+  },
+  {
+    "itemCode": 1032023,
+    "itemName": "딸기 귀고리"
+  },
+  {
+    "itemCode": 1032017,
+    "itemName": "장미꽃 귀고리"
+  },
+  {
+    "itemCode": 1032030,
+    "itemName": "소드 이어링"
+  },
+  {
+    "itemCode": 1032031,
+    "itemName": "타임리스 이어링"
+  },
+  {
+    "itemCode": 1102000,
+    "itemName": "초록색 모험가의 망토"
+  },
+  {
+    "itemCode": 1102002,
+    "itemName": "빨간색 모험가의 망토"
+  },
+  {
+    "itemCode": 1102003,
+    "itemName": "흰색 모험가의 망토"
+  },
+  {
+    "itemCode": 1102001,
+    "itemName": "파란색 모험가의 망토"
+  },
+  {
+    "itemCode": 1102018,
+    "itemName": "검은색 마법의 망토"
+  },
+  {
+    "itemCode": 1102015,
+    "itemName": "파란색 마법의 망토"
+  },
+  {
+    "itemCode": 1102016,
+    "itemName": "빨간색 마법의 망토"
+  },
+  {
+    "itemCode": 1102017,
+    "itemName": "흰색 마법의 망토"
+  },
+  {
+    "itemCode": 1102053,
+    "itemName": "허름한 망토"
+  },
+  {
+    "itemCode": 1102056,
+    "itemName": "이카루스의 망토(점프)"
+  },
+  {
+    "itemCode": 1102109,
+    "itemName": "온화의 망토"
+  },
+  {
+    "itemCode": 1102054,
+    "itemName": "이카루스의 망토(회피)"
+  },
+  {
+    "itemCode": 1102023,
+    "itemName": "흰색 가이아의 망토"
+  },
+  {
+    "itemCode": 1102022,
+    "itemName": "빨간색 가이아의 망토"
+  },
+  {
+    "itemCode": 1102021,
+    "itemName": "파란색 가이아의 망토"
+  },
+  {
+    "itemCode": 1102024,
+    "itemName": "검은색 가이아의 망토"
+  },
+  {
+    "itemCode": 1102030,
+    "itemName": "검은색 세라프의 망토"
+  },
+  {
+    "itemCode": 1102028,
+    "itemName": "빨간색 세라프의 망토"
+  },
+  {
+    "itemCode": 1102029,
+    "itemName": "흰색 세라프의 망토"
+  },
+  {
+    "itemCode": 1102027,
+    "itemName": "파란색 세라프의 망토"
+  },
+  {
+    "itemCode": 1102026,
+    "itemName": "초록색 세라프의 망토"
+  },
+  {
+    "itemCode": 1102031,
+    "itemName": "초록색 자일즈의 망토"
+  },
+  {
+    "itemCode": 1102032,
+    "itemName": "자주색 자일즈의 망토"
+  },
+  {
+    "itemCode": 1102035,
+    "itemName": "검은색 자일즈의 망토"
+  },
+  {
+    "itemCode": 2043002,
+    "itemName": "한손검 공격력 주문서  10%"
+  },
+  {
+    "itemCode": 2000003,
+    "itemName": "파란 포션"
+  },
+  {
+    "itemCode": 4000021,
+    "itemName": "동물의 가죽"
+  },
+  {
+    "itemCode": 4000215,
+    "itemName": "도끼"
+  },
+  {
+    "itemCode": 2043000,
+    "itemName": "한손검 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2043001,
+    "itemName": "한손검 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2043015,
+    "itemName": "한손검 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2043017,
+    "itemName": "한손검 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2043019,
+    "itemName": "한손검 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044000,
+    "itemName": "두손검 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044001,
+    "itemName": "두손검 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044002,
+    "itemName": "두손검 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044010,
+    "itemName": "두손검 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2044012,
+    "itemName": "두손검 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2044014,
+    "itemName": "두손검 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2043100,
+    "itemName": "한손도끼 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2043101,
+    "itemName": "한손도끼 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2043102,
+    "itemName": "한손도끼 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2043110,
+    "itemName": "한손도끼 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2043112,
+    "itemName": "한손도끼 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2043114,
+    "itemName": "한손도끼 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044100,
+    "itemName": "두손도끼 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044101,
+    "itemName": "두손도끼 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044102,
+    "itemName": "두손도끼 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044110,
+    "itemName": "두손도끼 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2044112,
+    "itemName": "두손도끼 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2044114,
+    "itemName": "두손도끼 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2043200,
+    "itemName": "한손둔기 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2043201,
+    "itemName": "한손둔기 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2043202,
+    "itemName": "한손둔기 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2043210,
+    "itemName": "한손둔기 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2043212,
+    "itemName": "한손둔기 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2043214,
+    "itemName": "한손둔기 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044200,
+    "itemName": "두손둔기 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044201,
+    "itemName": "두손둔기 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044202,
+    "itemName": "두손둔기 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044210,
+    "itemName": "두손둔기 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2044212,
+    "itemName": "두손둔기 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2044214,
+    "itemName": "두손둔기 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044300,
+    "itemName": "창 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044301,
+    "itemName": "창 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044302,
+    "itemName": "창 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044310,
+    "itemName": "창 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2044312,
+    "itemName": "창 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2044314,
+    "itemName": "폴암 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044400,
+    "itemName": "폴암 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044401,
+    "itemName": "폴암 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044402,
+    "itemName": "폴암 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044410,
+    "itemName": "폴암 명중치 주문서 100%"
+  },
+  {
+    "itemCode": 2044412,
+    "itemName": "폴암 명중치 주문서 60%"
+  },
+  {
+    "itemCode": 2044414,
+    "itemName": "폴암 명중치 주문서 10%"
+  },
+  {
+    "itemCode": 2044500,
+    "itemName": "활 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044501,
+    "itemName": "활 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044502,
+    "itemName": "활 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044600,
+    "itemName": "석궁 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044601,
+    "itemName": "석궁 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044602,
+    "itemName": "석궁 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2043700,
+    "itemName": "완드 마력 주문서 100%"
+  },
+  {
+    "itemCode": 2043701,
+    "itemName": "완드 마력 주문서 60%"
+  },
+  {
+    "itemCode": 2043702,
+    "itemName": "완드 마력 주문서 10%"
+  },
+  {
+    "itemCode": 2043800,
+    "itemName": "스태프 마력 주문서 100%"
+  },
+  {
+    "itemCode": 2043801,
+    "itemName": "스태프 마력 주문서 60%"
+  },
+  {
+    "itemCode": 2043802,
+    "itemName": "스태프 마력 주문서 10%"
+  },
+  {
+    "itemCode": 2043300,
+    "itemName": "단검 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2043301,
+    "itemName": "단검 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2043302,
+    "itemName": "단검 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2044700,
+    "itemName": "아대 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2044701,
+    "itemName": "아대 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2044702,
+    "itemName": "아대 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2022258,
+    "itemName": "코코넛 주스"
+  },
+  {
+    "itemCode": 2020006,
+    "itemName": "뚱뚱이 핫도그"
+  },
+  {
+    "itemCode": 2020005,
+    "itemName": "길쭉이 핫도그"
+  },
+  {
+    "itemCode": 2020004,
+    "itemName": "햄버거"
+  },
+  {
+    "itemCode": 2020003,
+    "itemName": "피자"
+  },
+  {
+    "itemCode": 2020002,
+    "itemName": "케이크"
+  },
+  {
+    "itemCode": 2020001,
+    "itemName": "통닭"
+  },
+  {
+    "itemCode": 2020000,
+    "itemName": "샐러드"
+  },
+  {
+    "itemCode": 2010001,
+    "itemName": "짐승의 고기"
+  },
+  {
+    "itemCode": 2020015,
+    "itemName": "황혼의 이슬"
+  },
+  {
+    "itemCode": 2022041,
+    "itemName": "새우튀김"
+  },
+  {
+    "itemCode": 2022040,
+    "itemName": "공기방울"
+  },
+  {
+    "itemCode": 2030019,
+    "itemName": "노틸러스 귀환 주문서"
+  },
+  {
+    "itemCode": 2190000,
+    "itemName": "거짓말 탐지기"
+  },
+  {
+    "itemCode": 2260000,
+    "itemName": "피로회복제"
+  },
+  {
+    "itemCode": 2000006,
+    "itemName": "마나 엘릭서"
+  },
+  {
+    "itemCode": 2000007,
+    "itemName": "빨간 포션 알약"
+  },
+  {
+    "itemCode": 2000008,
+    "itemName": "주황 포션 알약"
+  },
+  {
+    "itemCode": 2000009,
+    "itemName": "하얀 포션 알약"
+  },
+  {
+    "itemCode": 2000010,
+    "itemName": "파란 포션 알약"
+  },
+  {
+    "itemCode": 2000011,
+    "itemName": "마나 엘릭서 알약"
+  },
+  {
+    "itemCode": 2120008,
+    "itemName": "맛좋은 사료"
+  },
+  {
+    "itemCode": 2050000,
+    "itemName": "해독제"
+  },
+  {
+    "itemCode": 2050001,
+    "itemName": "안약"
+  },
+  {
+    "itemCode": 2050002,
+    "itemName": "보약"
+  },
+  {
+    "itemCode": 2050003,
+    "itemName": "성수"
+  },
+  {
+    "itemCode": 2000000,
+    "itemName": "빨간 포션"
+  },
+  {
+    "itemCode": 2000001,
+    "itemName": "주황 포션"
+  },
+  {
+    "itemCode": 2000002,
+    "itemName": "하얀 포션"
+  },
+  {
+    "itemCode": 2001000,
+    "itemName": "수박"
+  },
+  {
+    "itemCode": 2001001,
+    "itemName": "쭈쭈바"
+  },
+  {
+    "itemCode": 2001002,
+    "itemName": "팥빙수"
+  },
+  {
+    "itemCode": 2061001,
+    "itemName": "석궁전용 청동화살"
+  },
+  {
+    "itemCode": 2061000,
+    "itemName": "석궁전용 화살"
+  },
+  {
+    "itemCode": 2060001,
+    "itemName": "활전용 청동화살"
+  },
+  {
+    "itemCode": 2060000,
+    "itemName": "활전용 화살"
+  },
+  {
+    "itemCode": 2030006,
+    "itemName": "슬리피우드 귀환 주문서"
+  },
+  {
+    "itemCode": 2030005,
+    "itemName": "커닝시티 귀환 주문서"
+  },
+  {
+    "itemCode": 2030001,
+    "itemName": "리스 항구 귀환 주문서"
+  },
+  {
+    "itemCode": 2030000,
+    "itemName": "마을 귀환 주문서"
+  },
+  {
+    "itemCode": 2330000,
+    "itemName": "불릿"
+  },
+  {
+    "itemCode": 2070000,
+    "itemName": "수비 표창"
+  },
+  {
+    "itemCode": 2000004,
+    "itemName": "엘릭서"
+  },
+  {
+    "itemCode": 2000005,
+    "itemName": "파워 엘릭서"
+  },
+  {
+    "itemCode": 2070001,
+    "itemName": "월비 표창"
+  },
+  {
+    "itemCode": 2070002,
+    "itemName": "목비 표창"
+  },
+  {
+    "itemCode": 2070003,
+    "itemName": "금비 표창"
+  },
+  {
+    "itemCode": 2070004,
+    "itemName": "토비 표창"
+  },
+  {
+    "itemCode": 2070006,
+    "itemName": "일비 표창"
+  },
+  {
+    "itemCode": 2070007,
+    "itemName": "화비 표창"
+  },
+  {
+    "itemCode": 2070005,
+    "itemName": "뇌전 수리검"
+  },
+  {
+    "itemCode": 2002004,
+    "itemName": "전사의 물약"
+  },
+  {
+    "itemCode": 2020014,
+    "itemName": "새벽의 이슬"
+  },
+  {
+    "itemCode": 2002002,
+    "itemName": "마법사의 물약"
+  },
+  {
+    "itemCode": 2002005,
+    "itemName": "명사수의 물약"
+  },
+  {
+    "itemCode": 2010004,
+    "itemName": "레몬"
+  },
+  {
+    "itemCode": 2002001,
+    "itemName": "속도향상의 물약"
+  },
+  {
+    "itemCode": 2002000,
+    "itemName": "민첩함의 물약"
+  },
+  {
+    "itemCode": 2002003,
+    "itemName": "현자의 물약"
+  },
+  {
+    "itemCode": 2002006,
+    "itemName": "전사의 알약"
+  },
+  {
+    "itemCode": 2022000,
+    "itemName": "맑은 물"
+  },
+  {
+    "itemCode": 2022003,
+    "itemName": "장어 구이"
+  },
+  {
+    "itemCode": 2010003,
+    "itemName": "오렌지"
+  },
+  {
+    "itemCode": 2002009,
+    "itemName": "민첩함의 알약"
+  },
+  {
+    "itemCode": 2002007,
+    "itemName": "마법사의 알약"
+  },
+  {
+    "itemCode": 2002008,
+    "itemName": "명사수의 알약"
+  },
+  {
+    "itemCode": 2020012,
+    "itemName": "살살녹는 치즈"
+  },
+  {
+    "itemCode": 2020013,
+    "itemName": "순록의 우유"
+  },
+  {
+    "itemCode": 2010000,
+    "itemName": "사과"
+  },
+  {
+    "itemCode": 2010002,
+    "itemName": "달걀"
+  },
+  {
+    "itemCode": 2070009,
+    "itemName": "나무팽이"
+  },
+  {
+    "itemCode": 2070010,
+    "itemName": "고드름"
+  },
+  {
+    "itemCode": 4004000,
+    "itemName": "힘의 크리스탈 원석"
+  },
+  {
+    "itemCode": 4004001,
+    "itemName": "지혜의 크리스탈 원석"
+  },
+  {
+    "itemCode": 4004002,
+    "itemName": "민첩성의 크리스탈 원석"
+  },
+  {
+    "itemCode": 4004003,
+    "itemName": "행운의 크리스탈 원석"
+  },
+  {
+    "itemCode": 4004004,
+    "itemName": "어둠의 크리스탈 원석"
+  },
+  {
+    "itemCode": 4020005,
+    "itemName": "사파이어의 원석"
+  },
+  {
+    "itemCode": 4020006,
+    "itemName": "토파즈의 원석"
+  },
+  {
+    "itemCode": 4020007,
+    "itemName": "다이아몬드의 원석"
+  },
+  {
+    "itemCode": 4020008,
+    "itemName": "흑수정의 원석"
+  },
+  {
+    "itemCode": 4020004,
+    "itemName": "오팔의 원석"
+  },
+  {
+    "itemCode": 4020003,
+    "itemName": "에메랄드의 원석"
+  },
+  {
+    "itemCode": 4010000,
+    "itemName": "청동의 원석"
+  },
+  {
+    "itemCode": 4010001,
+    "itemName": "강철의 원석"
+  },
+  {
+    "itemCode": 4010002,
+    "itemName": "미스릴의 원석"
+  },
+  {
+    "itemCode": 4010003,
+    "itemName": "아다만티움의 원석"
+  },
+  {
+    "itemCode": 4010004,
+    "itemName": "은의 원석"
+  },
+  {
+    "itemCode": 4010005,
+    "itemName": "오리할콘의 원석"
+  },
+  {
+    "itemCode": 4010006,
+    "itemName": "금의 원석"
+  },
+  {
+    "itemCode": 4010007,
+    "itemName": "리튬의 원석"
+  },
+  {
+    "itemCode": 4020000,
+    "itemName": "가넷의 원석"
+  },
+  {
+    "itemCode": 4020001,
+    "itemName": "자수정의 원석"
+  },
+  {
+    "itemCode": 4020002,
+    "itemName": "아쿠아마린의 원석"
+  },
+  {
+    "itemCode": 4021008,
+    "itemName": "흑수정"
+  },
+  {
+    "itemCode": 4021009,
+    "itemName": "별의 돌"
+  },
+  {
+    "itemCode": 4021000,
+    "itemName": "가넷"
+  },
+  {
+    "itemCode": 4021001,
+    "itemName": "자수정"
+  },
+  {
+    "itemCode": 4021002,
+    "itemName": "아쿠아마린"
+  },
+  {
+    "itemCode": 4021003,
+    "itemName": "에메랄드"
+  },
+  {
+    "itemCode": 4021004,
+    "itemName": "오팔"
+  },
+  {
+    "itemCode": 4021006,
+    "itemName": "토파즈"
+  },
+  {
+    "itemCode": 4021007,
+    "itemName": "다이아몬드"
+  },
+  {
+    "itemCode": 2040000,
+    "itemName": "투구 방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2040001,
+    "itemName": "투구 방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2040002,
+    "itemName": "투구 방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2040003,
+    "itemName": "투구 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040004,
+    "itemName": "투구 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040005,
+    "itemName": "투구 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2040024,
+    "itemName": "투구 지력 주문서 100%"
+  },
+  {
+    "itemCode": 2040025,
+    "itemName": "투구 지력 주문서 60%"
+  },
+  {
+    "itemCode": 2040026,
+    "itemName": "투구 지력 주문서 10%"
+  },
+  {
+    "itemCode": 2040027,
+    "itemName": "투구 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2040029,
+    "itemName": "투구 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2040031,
+    "itemName": "투구 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2040800,
+    "itemName": "장갑 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2040801,
+    "itemName": "장갑 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2040802,
+    "itemName": "장갑 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2040803,
+    "itemName": "장갑 공격력 주문서 100%"
+  },
+  {
+    "itemCode": 2040804,
+    "itemName": "장갑 공격력 주문서 60%"
+  },
+  {
+    "itemCode": 2040805,
+    "itemName": "장갑 공격력 주문서 10%"
+  },
+  {
+    "itemCode": 2040823,
+    "itemName": "장갑 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040824,
+    "itemName": "장갑 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040825,
+    "itemName": "장갑 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2040700,
+    "itemName": "신발 회피 주문서 100%"
+  },
+  {
+    "itemCode": 2040703,
+    "itemName": "신발 점프력 주문서 100%"
+  },
+  {
+    "itemCode": 2040704,
+    "itemName": "신발 점프력 주문서 60%"
+  },
+  {
+    "itemCode": 2040705,
+    "itemName": "신발 점프력 주문서 10%"
+  },
+  {
+    "itemCode": 2040706,
+    "itemName": "신발 이동속도 주문서 100%"
+  },
+  {
+    "itemCode": 2040707,
+    "itemName": "신발 이동속도 주문서 60%"
+  },
+  {
+    "itemCode": 2040708,
+    "itemName": "신발 이동속도 주문서 10%"
+  },
+  {
+    "itemCode": 2040500,
+    "itemName": "전신 갑옷 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2040501,
+    "itemName": "전신 갑옷 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2040502,
+    "itemName": "전신 갑옷 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2040503,
+    "itemName": "전신 갑옷 방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2040504,
+    "itemName": "전신 갑옷 방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2040505,
+    "itemName": "전신 갑옷 방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2040702,
+    "itemName": "신발 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 4021005,
+    "itemName": "사파이어"
+  },
+  {
+    "itemCode": 2040512,
+    "itemName": "전신 갑옷 지력 주문서 100%"
+  },
+  {
+    "itemCode": 2040513,
+    "itemName": "전신 갑옷 지력 주문서 60%"
+  },
+  {
+    "itemCode": 2040514,
+    "itemName": "전신 갑옷 지력 주문서 10%"
+  },
+  {
+    "itemCode": 2040530,
+    "itemName": "전신 갑옷 힘 주문서 100%"
+  },
+  {
+    "itemCode": 2040532,
+    "itemName": "전신 갑옷 힘 주문서 60%"
+  },
+  {
+    "itemCode": 2040534,
+    "itemName": "전신 갑옷 힘 주문서 10%"
+  },
+  {
+    "itemCode": 2040515,
+    "itemName": "전신 갑옷 행운 주문서 100%"
+  },
+  {
+    "itemCode": 2040516,
+    "itemName": "전신 갑옷 행운 주문서 60%"
+  },
+  {
+    "itemCode": 2040517,
+    "itemName": "전신 갑옷 행운 주문서 10%"
+  },
+  {
+    "itemCode": 2040400,
+    "itemName": "상의 방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2040401,
+    "itemName": "상의 방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2040402,
+    "itemName": "상의 방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2040417,
+    "itemName": "상의 힘 주문서 100%"
+  },
+  {
+    "itemCode": 2040418,
+    "itemName": "상의 힘 주문서 60%"
+  },
+  {
+    "itemCode": 2040419,
+    "itemName": "상의 힘 주문서 10%"
+  },
+  {
+    "itemCode": 2040420,
+    "itemName": "상의 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040421,
+    "itemName": "상의 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040422,
+    "itemName": "상의 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2040423,
+    "itemName": "상의 행운 주문서 100%"
+  },
+  {
+    "itemCode": 2040425,
+    "itemName": "상의 행운 주문서 60%"
+  },
+  {
+    "itemCode": 2040427,
+    "itemName": "상의 행운 주문서 10%"
+  },
+  {
+    "itemCode": 2040600,
+    "itemName": "하의 방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2040601,
+    "itemName": "하의 방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2040602,
+    "itemName": "하의 방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2040617,
+    "itemName": "하의 점프 주문서 100%"
+  },
+  {
+    "itemCode": 2040618,
+    "itemName": "하의 점프 주문서 60%"
+  },
+  {
+    "itemCode": 2040619,
+    "itemName": "하의 점프 주문서 10%"
+  },
+  {
+    "itemCode": 2040620,
+    "itemName": "하의 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040621,
+    "itemName": "하의 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040622,
+    "itemName": "하의 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2040623,
+    "itemName": "하의 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2040625,
+    "itemName": "하의 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2040627,
+    "itemName": "하의 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2040900,
+    "itemName": "방패 방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2040901,
+    "itemName": "방패 방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2040902,
+    "itemName": "방패 방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2040923,
+    "itemName": "방패 행운 주문서 100%"
+  },
+  {
+    "itemCode": 2040924,
+    "itemName": "방패 행운 주문서 60%"
+  },
+  {
+    "itemCode": 2040925,
+    "itemName": "방패 행운 주문서 10%"
+  },
+  {
+    "itemCode": 2040926,
+    "itemName": "방패 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040927,
+    "itemName": "방패 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040928,
+    "itemName": "방패 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2040929,
+    "itemName": "방패 힘 주문서 100%"
+  },
+  {
+    "itemCode": 2040931,
+    "itemName": "방패 힘 주문서 60%"
+  },
+  {
+    "itemCode": 2040933,
+    "itemName": "방패 힘 주문서 10%"
+  },
+  {
+    "itemCode": 2040301,
+    "itemName": "귀 장식 지력 주문서 60%"
+  },
+  {
+    "itemCode": 2040302,
+    "itemName": "귀 장식 지력 주문서 10%"
+  },
+  {
+    "itemCode": 2040316,
+    "itemName": "귀 장식 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2040317,
+    "itemName": "귀 장식 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2040318,
+    "itemName": "귀 장식 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2040319,
+    "itemName": "귀 장식 행운 주문서 100%"
+  },
+  {
+    "itemCode": 2040321,
+    "itemName": "귀 장식 행운 주문서 60%"
+  },
+  {
+    "itemCode": 2040323,
+    "itemName": "귀 장식 행운 주문서 10%"
+  },
+  {
+    "itemCode": 2040324,
+    "itemName": "귀 장식 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2040326,
+    "itemName": "귀 장식 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2040328,
+    "itemName": "귀 장식 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2041000,
+    "itemName": "망토 마법방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2041001,
+    "itemName": "망토 마법방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2041002,
+    "itemName": "망토 마법방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2041003,
+    "itemName": "망토 물리방어력 주문서 100%"
+  },
+  {
+    "itemCode": 2041004,
+    "itemName": "망토 물리방어력 주문서 60%"
+  },
+  {
+    "itemCode": 2041005,
+    "itemName": "망토 물리방어력 주문서 10%"
+  },
+  {
+    "itemCode": 2041006,
+    "itemName": "망토 체력 주문서 100%"
+  },
+  {
+    "itemCode": 2041007,
+    "itemName": "망토 체력 주문서 60%"
+  },
+  {
+    "itemCode": 2041008,
+    "itemName": "망토 체력 주문서 10%"
+  },
+  {
+    "itemCode": 2041009,
+    "itemName": "망토 마나 주문서 100%"
+  },
+  {
+    "itemCode": 2041010,
+    "itemName": "망토 마나 주문서 60%"
+  },
+  {
+    "itemCode": 2041011,
+    "itemName": "망토 마나 주문서 10%"
+  },
+  {
+    "itemCode": 2041012,
+    "itemName": "망토 힘 주문서 100%"
+  },
+  {
+    "itemCode": 2041013,
+    "itemName": "망토 힘 주문서 60%"
+  },
+  {
+    "itemCode": 2041014,
+    "itemName": "망토 힘 주문서 10%"
+  },
+  {
+    "itemCode": 2041015,
+    "itemName": "망토 지력 주문서 100%"
+  },
+  {
+    "itemCode": 2041016,
+    "itemName": "망토 지력 주문서 60%"
+  },
+  {
+    "itemCode": 2041017,
+    "itemName": "망토 지력 주문서 10%"
+  },
+  {
+    "itemCode": 2041018,
+    "itemName": "망토 민첩 주문서 100%"
+  },
+  {
+    "itemCode": 2041019,
+    "itemName": "망토 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 2041020,
+    "itemName": "망토 민첩 주문서 10%"
+  },
+  {
+    "itemCode": 2041021,
+    "itemName": "망토 행운 주문서 100%"
+  },
+  {
+    "itemCode": 2041022,
+    "itemName": "망토 행운 주문서 60%"
+  },
+  {
+    "itemCode": 2041023,
+    "itemName": "망토 행운 주문서 10%"
+  },
+  {
+    "itemCode": 4001004,
+    "itemName": "'돼지와 함께 춤을'의 땅문서"
+  },
+  {
+    "itemCode": 4001005,
+    "itemName": "고대의 주문서"
+  },
+  {
+    "itemCode": 1050018,
+    "itemName": "파란색 가운"
+  },
+  {
+    "itemCode": 1002026,
+    "itemName": "갈색 삿갓"
+  },
+  {
+    "itemCode": 2040701,
+    "itemName": "신발 민첩 주문서 60%"
+  },
+  {
+    "itemCode": 4003000,
+    "itemName": "나사"
+  },
+  {
+    "itemCode": 4011007,
+    "itemName": "달의 돌"
+  },
+  {
+    "itemCode": 4011001,
+    "itemName": "강철"
+  },
+  {
+    "itemCode": 2002010,
+    "itemName": "속도 향상의 알약"
+  },
+  {
+    "itemCode": 4001000,
+    "itemName": "아르웬의 유리구두"
+  },
+  {
+    "itemCode": 5021014,
+    "itemName": "궭개발자테스트"
+  },
+  {
+    "itemCode": 2012000,
+    "itemName": "드레이크의 피"
+  },
+  {
+    "itemCode": 5072000,
+    "itemName": "고성능 확성기"
+  },
+  {
+    "itemCode": 5050000,
+    "itemName": "AP 초기화 주문서"
+  },
+  {
+    "itemCode": 5050001,
+    "itemName": "SP 초기화 주문서"
+  },
+  {
+    "itemCode": 5430000,
+    "itemName": "슬롯 확장권 (임시이미지)"
+  },
+  {
+    "itemCode": 5021007,
+    "itemName": "인기도"
+  },
+  {
+    "itemCode": 4000041,
+    "itemName": "멜러디의 실험용 개구리"
+  },
+  {
+    "itemCode": 4000030,
+    "itemName": "용의 가죽"
+  },
+  {
+    "itemCode": 4000035,
+    "itemName": "식탁보"
+  },
+  {
+    "itemCode": 4000040,
+    "itemName": "머쉬맘의 포자"
+  },
+  {
+    "itemCode": 4000036,
+    "itemName": "이상한 느낌의 약"
+  },
+  {
+    "itemCode": 4000000,
+    "itemName": "파란 달팽이의 껍질"
+  },
+  {
+    "itemCode": 4000001,
+    "itemName": "주황버섯의 갓"
+  },
+  {
+    "itemCode": 4000002,
+    "itemName": "돼지의 리본"
+  },
+  {
+    "itemCode": 4000003,
+    "itemName": "나뭇가지"
+  },
+  {
+    "itemCode": 4000004,
+    "itemName": "물컹물컹한 액체"
+  },
+  {
+    "itemCode": 4000005,
+    "itemName": "나뭇잎"
+  },
+  {
+    "itemCode": 4000006,
+    "itemName": "옥토퍼스의 다리"
+  },
+  {
+    "itemCode": 4000007,
+    "itemName": "이블아이의 꼬리"
+  },
+  {
+    "itemCode": 4000008,
+    "itemName": "죽은 자의 부적"
+  },
+  {
+    "itemCode": 4000009,
+    "itemName": "파란버섯의 갓"
+  },
+  {
+    "itemCode": 4000010,
+    "itemName": "슬라임의 방울"
+  },
+  {
+    "itemCode": 4031440,
+    "itemName": "장공퀘 (제인)"
+  },
+  {
+    "itemCode": 1082034,
+    "itemName": "다크 스틸라인"
+  },
+  {
+    "itemCode": 2048005,
+    "itemName": "펫장비 점프력 주문서 10%"
+  },
+  {
+    "itemCode": 2048004,
+    "itemName": "펫장비 점프력 주문서 60%"
+  },
+  {
+    "itemCode": 2048003,
+    "itemName": "펫장비 점프력 주문서 100%"
+  },
+  {
+    "itemCode": 2048002,
+    "itemName": "펫장비 이동속도 주문서 10%"
+  },
+  {
+    "itemCode": 2048001,
+    "itemName": "펫장비 이동속도 주문서 60%"
+  },
+  {
+    "itemCode": 4000011,
+    "itemName": "버섯의 포자"
+  },
+  {
+    "itemCode": 4000012,
+    "itemName": "초록버섯의 갓"
+  },
+  {
+    "itemCode": 4000013,
+    "itemName": "커즈아이의 꼬리"
+  },
+  {
+    "itemCode": 4000014,
+    "itemName": "드레이크의 머리뼈"
+  },
+  {
+    "itemCode": 4000015,
+    "itemName": "뿔버섯의 갓"
+  },
+  {
+    "itemCode": 4000016,
+    "itemName": "빨간 달팽이의 껍질"
+  },
+  {
+    "itemCode": 4000017,
+    "itemName": "돼지의 머리"
+  },
+  {
+    "itemCode": 4000018,
+    "itemName": "장작"
+  },
+  {
+    "itemCode": 4000019,
+    "itemName": "달팽이의 껍질"
+  },
+  {
+    "itemCode": 4000020,
+    "itemName": "와일드보어의 송곳니"
+  },
+  {
+    "itemCode": 4000022,
+    "itemName": "스톤골렘의 돌조각"
+  },
+  {
+    "itemCode": 4000023,
+    "itemName": "콜드아이의 꼬리"
+  },
+  {
+    "itemCode": 4000024,
+    "itemName": "파이어보어의 송곳니"
+  },
+  {
+    "itemCode": 4000025,
+    "itemName": "다크 스톤골렘의 돌조각"
+  },
+  {
+    "itemCode": 4000026,
+    "itemName": "루팡 인형"
+  },
+  {
+    "itemCode": 4000027,
+    "itemName": "와일드카고의 눈동자"
+  },
+  {
+    "itemCode": 4000028,
+    "itemName": "타우로마시스의 뿔"
+  },
+  {
+    "itemCode": 4000029,
+    "itemName": "루팡의 바나나"
+  },
+  {
+    "itemCode": 4000031,
+    "itemName": "저주받은 인형"
+  },
+  {
+    "itemCode": 4000032,
+    "itemName": "리게이터의 가죽"
+  },
+  {
+    "itemCode": 4000033,
+    "itemName": "크로코의 가죽"
+  },
+  {
+    "itemCode": 4000034,
+    "itemName": "주니어 네키의 가죽"
+  },
+  {
+    "itemCode": 4000037,
+    "itemName": "버블링의 큰 방울"
+  },
+  {
+    "itemCode": 4000038,
+    "itemName": "이벤트 트로피"
+  },
+  {
+    "itemCode": 4000039,
+    "itemName": "아이언 호그의 철발굽"
+  },
+  {
+    "itemCode": 4000042,
+    "itemName": "스티지의 날개"
+  },
+  {
+    "itemCode": 4000043,
+    "itemName": "로랑의 집게발"
+  },
+  {
+    "itemCode": 4000044,
+    "itemName": "클랑의 집게발"
+  },
+  {
+    "itemCode": 4000045,
+    "itemName": "엄티의 등껍질"
+  },
+  {
+    "itemCode": 4000046,
+    "itemName": "타우로스피어의 뿔"
+  },
+  {
+    "itemCode": 4000047,
+    "itemName": "마우스"
+  },
+  {
+    "itemCode": 4000048,
+    "itemName": "주니어 예티의 가죽"
+  },
+  {
+    "itemCode": 4000049,
+    "itemName": "예티의 뿔"
+  },
+  {
+    "itemCode": 4000050,
+    "itemName": "페페의 부리"
+  },
+  {
+    "itemCode": 4000051,
+    "itemName": "헥터의 꼬리"
+  },
+  {
+    "itemCode": 4000052,
+    "itemName": "화이트팽의 꼬리"
+  },
+  {
+    "itemCode": 4000053,
+    "itemName": "웨어울프의 발톱"
+  },
+  {
+    "itemCode": 4000054,
+    "itemName": "라이칸스로프의 발톱"
+  },
+  {
+    "itemCode": 4000055,
+    "itemName": "다크 주니어 예티의 가죽"
+  },
+  {
+    "itemCode": 4000056,
+    "itemName": "다크 예티의 뿔"
+  },
+  {
+    "itemCode": 4000057,
+    "itemName": "다크 페페의 부리"
+  },
+  {
+    "itemCode": 4000058,
+    "itemName": "네펜데스의 씨앗"
+  },
+  {
+    "itemCode": 4000059,
+    "itemName": "스타픽시의 별조각"
+  },
+  {
+    "itemCode": 4000060,
+    "itemName": "루나픽시의 달조각"
+  },
+  {
+    "itemCode": 4000061,
+    "itemName": "러스터픽시의 태양조각"
+  },
+  {
+    "itemCode": 4000062,
+    "itemName": "다크 네펜데스의 씨앗"
+  },
+  {
+    "itemCode": 4000063,
+    "itemName": "스톤볼의 돌조각"
+  },
+  {
+    "itemCode": 4000064,
+    "itemName": "까마귀 깃털"
+  },
+  {
+    "itemCode": 4000065,
+    "itemName": "너구리 장작"
+  },
+  {
+    "itemCode": 4000066,
+    "itemName": "여우 꼬리"
+  },
+  {
+    "itemCode": 4000067,
+    "itemName": "주니어 부기의 뿔"
+  },
+  {
+    "itemCode": 4000068,
+    "itemName": "페어리의 더듬이"
+  },
+  {
+    "itemCode": 4000069,
+    "itemName": "좀비의 잃어버린 어금니"
+  },
+  {
+    "itemCode": 4000070,
+    "itemName": "샐리온의 꼬리"
+  },
+  {
+    "itemCode": 4000071,
+    "itemName": "라이오너의 꼬리"
+  },
+  {
+    "itemCode": 4000072,
+    "itemName": "그류핀의 꼬리"
+  },
+  {
+    "itemCode": 4000073,
+    "itemName": "단단한 뿔"
+  },
+  {
+    "itemCode": 4000074,
+    "itemName": "루이넬의 꼬리"
+  },
+  {
+    "itemCode": 4000075,
+    "itemName": "망령의 삼각두건"
+  },
+  {
+    "itemCode": 4000076,
+    "itemName": "플라이아이의 날개"
+  },
+  {
+    "itemCode": 4000077,
+    "itemName": "큰 구름여우 꼬리"
+  },
+  {
+    "itemCode": 4000078,
+    "itemName": "주니어 불독의 송곳니"
+  },
+  {
+    "itemCode": 4000079,
+    "itemName": "불독의 송곳니"
+  },
+  {
+    "itemCode": 4000080,
+    "itemName": "파이어독의 목걸이"
+  },
+  {
+    "itemCode": 4000081,
+    "itemName": "파이어봄의 불씨"
+  },
+  {
+    "itemCode": 4000082,
+    "itemName": "좀비의 잃어버린 금니"
+  },
+  {
+    "itemCode": 4000083,
+    "itemName": "주니어 스톤볼의 돌조각"
+  },
+  {
+    "itemCode": 4000084,
+    "itemName": "아이스 스톤볼의 돌조각"
+  },
+  {
+    "itemCode": 4000085,
+    "itemName": "파이어 스톤볼의 돌조각"
+  },
+  {
+    "itemCode": 4000086,
+    "itemName": "리티의 털뭉치"
+  },
+  {
+    "itemCode": 4000087,
+    "itemName": "다크 리티의 털뭉치"
+  },
+  {
+    "itemCode": 4000088,
+    "itemName": "주니어 페페의 물고기"
+  },
+  {
+    "itemCode": 4000089,
+    "itemName": "꼬붕 A의 배지"
+  },
+  {
+    "itemCode": 4000090,
+    "itemName": "꼬붕 B의 명찰"
+  },
+  {
+    "itemCode": 4000091,
+    "itemName": "꼬붕 C의 목걸이"
+  },
+  {
+    "itemCode": 4000092,
+    "itemName": "간부 A의 손수건"
+  },
+  {
+    "itemCode": 4000093,
+    "itemName": "간부 B의 왁스"
+  },
+  {
+    "itemCode": 4000094,
+    "itemName": "보스의 포머드"
+  },
+  {
+    "itemCode": 4000095,
+    "itemName": "쥐덫"
+  },
+  {
+    "itemCode": 4000096,
+    "itemName": "단단한 호두"
+  },
+  {
+    "itemCode": 4000097,
+    "itemName": "거미줄"
+  },
+  {
+    "itemCode": 4000098,
+    "itemName": "끈적이는 거미줄"
+  },
+  {
+    "itemCode": 4000099,
+    "itemName": "문어 열쇠고리"
+  },
+  {
+    "itemCode": 4000100,
+    "itemName": "플라스틱 왕관"
+  },
+  {
+    "itemCode": 4000101,
+    "itemName": "노란색 장난감 블록"
+  },
+  {
+    "itemCode": 4000102,
+    "itemName": "파란색 장난감 블록"
+  },
+  {
+    "itemCode": 4000103,
+    "itemName": "비행기 프로펠러"
+  },
+  {
+    "itemCode": 4000104,
+    "itemName": "비행기 모터"
+  },
+  {
+    "itemCode": 4000105,
+    "itemName": "비행기 컨트롤러"
+  },
+  {
+    "itemCode": 4000106,
+    "itemName": "곰인형의 솜뭉치"
+  },
+  {
+    "itemCode": 4000107,
+    "itemName": "곰인형의 노란리본"
+  },
+  {
+    "itemCode": 4000108,
+    "itemName": "팬더인형"
+  },
+  {
+    "itemCode": 4000109,
+    "itemName": "장난감 새끼오리"
+  },
+  {
+    "itemCode": 4000110,
+    "itemName": "장난감 병정의 칼"
+  },
+  {
+    "itemCode": 4000111,
+    "itemName": "싸구려 건전지"
+  },
+  {
+    "itemCode": 4000112,
+    "itemName": "기계심장"
+  },
+  {
+    "itemCode": 4000113,
+    "itemName": "시계 태엽"
+  },
+  {
+    "itemCode": 4000114,
+    "itemName": "작은 시계"
+  },
+  {
+    "itemCode": 4000115,
+    "itemName": "톱니바퀴"
+  },
+  {
+    "itemCode": 4000116,
+    "itemName": "작은 알"
+  },
+  {
+    "itemCode": 4000117,
+    "itemName": "우주 식량"
+  },
+  {
+    "itemCode": 4000118,
+    "itemName": "소형 우주선"
+  },
+  {
+    "itemCode": 4000119,
+    "itemName": "수신기"
+  },
+  {
+    "itemCode": 4000120,
+    "itemName": "마티안의 촉수"
+  },
+  {
+    "itemCode": 4000121,
+    "itemName": "플라티안의 헬멧"
+  },
+  {
+    "itemCode": 4000122,
+    "itemName": "메카티안의 광선총"
+  },
+  {
+    "itemCode": 4000123,
+    "itemName": "낡은 고글"
+  },
+  {
+    "itemCode": 4000124,
+    "itemName": "롬바드의 메모리카드"
+  },
+  {
+    "itemCode": 4000125,
+    "itemName": "원로 그레이의 표식"
+  },
+  {
+    "itemCode": 4000126,
+    "itemName": "MT-09의 연료"
+  },
+  {
+    "itemCode": 4000127,
+    "itemName": "장난감 북"
+  },
+  {
+    "itemCode": 4000128,
+    "itemName": "버피의 모자"
+  },
+  {
+    "itemCode": 4000129,
+    "itemName": "레이지 버피의 구슬"
+  },
+  {
+    "itemCode": 4000130,
+    "itemName": "버푼의 괘종시계"
+  },
+  {
+    "itemCode": 4000131,
+    "itemName": "딥 버푼의 돌조각"
+  },
+  {
+    "itemCode": 4000132,
+    "itemName": "파이렛의 키"
+  },
+  {
+    "itemCode": 4000133,
+    "itemName": "듀얼 파이렛의 추진기"
+  },
+  {
+    "itemCode": 4000134,
+    "itemName": "바이킹의 돛"
+  },
+  {
+    "itemCode": 4000135,
+    "itemName": "기간틱 바이킹의 모자"
+  },
+  {
+    "itemCode": 4000137,
+    "itemName": "부하D의 손톱"
+  },
+  {
+    "itemCode": 4000138,
+    "itemName": "여보스의 빗"
+  },
+  {
+    "itemCode": 4000139,
+    "itemName": "보디가드A의 넥타이 핀"
+  },
+  {
+    "itemCode": 4000140,
+    "itemName": "보디가드 B의 탄환"
+  },
+  {
+    "itemCode": 4000141,
+    "itemName": "대보스의 손전등"
+  },
+  {
+    "itemCode": 4000142,
+    "itemName": "주니어 스톤볼의 돌조각"
+  },
+  {
+    "itemCode": 4000143,
+    "itemName": "좀비테니 인형"
+  },
+  {
+    "itemCode": 4000144,
+    "itemName": "자유로운 영혼"
+  },
+  {
+    "itemCode": 4000145,
+    "itemName": "봉인된 괘종시계"
+  },
+  {
+    "itemCode": 4000146,
+    "itemName": "사악한 영혼"
+  },
+  {
+    "itemCode": 4000147,
+    "itemName": "봉인된 테니인형"
+  },
+  {
+    "itemCode": 4000148,
+    "itemName": "속박의 굴레"
+  },
+  {
+    "itemCode": 4000149,
+    "itemName": "봉인된 항아리"
+  },
+  {
+    "itemCode": 4000150,
+    "itemName": "팬텀워치의 얼음조각"
+  },
+  {
+    "itemCode": 4000151,
+    "itemName": "게이트키퍼의 완장"
+  },
+  {
+    "itemCode": 4000152,
+    "itemName": "타나토스의 견장"
+  },
+  {
+    "itemCode": 4000153,
+    "itemName": "스노클"
+  },
+  {
+    "itemCode": 4000154,
+    "itemName": "아기 물개 인형"
+  },
+  {
+    "itemCode": 4000155,
+    "itemName": "물개가죽"
+  },
+  {
+    "itemCode": 4000156,
+    "itemName": "물개의 송곳니"
+  },
+  {
+    "itemCode": 4000157,
+    "itemName": "물개고기"
+  },
+  {
+    "itemCode": 4000158,
+    "itemName": "푸퍼의 알"
+  },
+  {
+    "itemCode": 4000159,
+    "itemName": "포이즌 푸퍼의 독가시"
+  },
+  {
+    "itemCode": 4000160,
+    "itemName": "바늘"
+  },
+  {
+    "itemCode": 4000161,
+    "itemName": "해마의 꼬리"
+  },
+  {
+    "itemCode": 4000162,
+    "itemName": "화려한 비늘가죽"
+  },
+  {
+    "itemCode": 4000163,
+    "itemName": "해마의 뿔"
+  },
+  {
+    "itemCode": 4000164,
+    "itemName": "버블피쉬의 마음"
+  },
+  {
+    "itemCode": 4000165,
+    "itemName": "화려한 꽃잎"
+  },
+  {
+    "itemCode": 4000166,
+    "itemName": "새우살"
+  },
+  {
+    "itemCode": 4000167,
+    "itemName": "딱딱한 비늘"
+  },
+  {
+    "itemCode": 4000168,
+    "itemName": "해바라기씨"
+  },
+  {
+    "itemCode": 4000169,
+    "itemName": "절구공이"
+  },
+  {
+    "itemCode": 4000170,
+    "itemName": "호랑이 발도장"
+  },
+  {
+    "itemCode": 4000171,
+    "itemName": "호랑이 가죽"
+  },
+  {
+    "itemCode": 4000172,
+    "itemName": "삼미호의 꼬리"
+  },
+  {
+    "itemCode": 4000173,
+    "itemName": "빗자루"
+  },
+  {
+    "itemCode": 4000175,
+    "itemName": "피아누스 미니어쳐"
+  },
+  {
+    "itemCode": 4000176,
+    "itemName": "독버섯"
+  },
+  {
+    "itemCode": 4000177,
+    "itemName": "믹스블록"
+  },
+  {
+    "itemCode": 4000178,
+    "itemName": "아이언보어의 갑옷조각"
+  },
+  {
+    "itemCode": 4000179,
+    "itemName": "망둥이 묶음"
+  },
+  {
+    "itemCode": 4000180,
+    "itemName": "상어 틀니"
+  },
+  {
+    "itemCode": 4000181,
+    "itemName": "냉동포장 샥스핀"
+  },
+  {
+    "itemCode": 4000182,
+    "itemName": "석회가루병"
+  },
+  {
+    "itemCode": 4000183,
+    "itemName": "먹물병"
+  },
+  {
+    "itemCode": 4000184,
+    "itemName": "전기버터구이"
+  },
+  {
+    "itemCode": 4000185,
+    "itemName": "얼음 등뼈"
+  },
+  {
+    "itemCode": 4000186,
+    "itemName": "다크 드레이크의 뿔"
+  },
+  {
+    "itemCode": 4000187,
+    "itemName": "닭발"
+  },
+  {
+    "itemCode": 4000188,
+    "itemName": "오리알"
+  },
+  {
+    "itemCode": 4000189,
+    "itemName": "양털"
+  },
+  {
+    "itemCode": 4000190,
+    "itemName": "흰뿔"
+  },
+  {
+    "itemCode": 4000191,
+    "itemName": "검은 뿔"
+  },
+  {
+    "itemCode": 4000192,
+    "itemName": "코뚜레"
+  },
+  {
+    "itemCode": 4000193,
+    "itemName": "쟁기"
+  },
+  {
+    "itemCode": 4000194,
+    "itemName": "검은 털"
+  },
+  {
+    "itemCode": 4000195,
+    "itemName": "묘목"
+  },
+  {
+    "itemCode": 4000196,
+    "itemName": "목판"
+  },
+  {
+    "itemCode": 4000197,
+    "itemName": "석판"
+  },
+  {
+    "itemCode": 4000198,
+    "itemName": "들개의 꼬리"
+  },
+  {
+    "itemCode": 4000199,
+    "itemName": "들개의 선글라스"
+  },
+  {
+    "itemCode": 4003001,
+    "itemName": "가공된 나무"
+  },
+  {
+    "itemCode": 2010009,
+    "itemName": "초록 사과"
+  },
+  {
+    "itemCode": 1112202,
+    "itemName": "MSW 아바타 코디 반지 (30일)"
+  },
+  {
+    "itemCode": 1112206,
+    "itemName": "MSW 아바타 코디 반지 (90일)"
+  },
+  {
+    "itemCode": 1002090,
+    "itemName": "파란색 삿갓"
+  },
+  {
+    "itemCode": 1002089,
+    "itemName": "초록색 삿갓"
+  },
+  {
+    "itemCode": 4011006,
+    "itemName": "금"
+  },
+  {
+    "itemCode": 4003004,
+    "itemName": "뻣뻣한 깃털"
+  },
+  {
+    "itemCode": 4006001,
+    "itemName": "소환의 돌"
+  },
+  {
+    "itemCode": 4006000,
+    "itemName": "마법의 돌"
+  },
+  {
+    "itemCode": 1412008,
+    "itemName": "크로노"
+  },
+  {
+    "itemCode": 4001006,
+    "itemName": "불꽃 깃털"
+  },
+  {
+    "itemCode": 4011002,
+    "itemName": "미스릴"
+  },
+  {
+    "itemCode": 4011003,
+    "itemName": "아다만티움"
+  },
+  {
+    "itemCode": 4011005,
+    "itemName": "오리할콘"
+  },
+  {
+    "itemCode": 4011000,
+    "itemName": "청동"
+  },
+  {
+    "itemCode": 2070008,
+    "itemName": "눈덩이"
+  },
+  {
+    "itemCode": 2012003,
+    "itemName": "드레이크의 고기"
+  },
+  {
+    "itemCode": 1072170,
+    "itemName": "그린 아이젠"
+  },
+  {
+    "itemCode": 1072171,
+    "itemName": "블랙 아이젠"
+  },
+  {
+    "itemCode": 1072168,
+    "itemName": "레드 아이젠"
+  },
+  {
+    "itemCode": 1072169,
+    "itemName": "블루 아이젠"
+  },
+  {
+    "itemCode": 1072338,
+    "itemName": "퍼플 아이젠"
+  },
+  {
+    "itemCode": 2022039,
+    "itemName": "네펜데스의 꿀"
+  },
+  {
+    "itemCode": 2050004,
+    "itemName": "만병통치약"
+  },
+  {
+    "itemCode": 4001107,
+    "itemName": "[스토리북] 검은 책"
+  },
+  {
+    "itemCode": 4001112,
+    "itemName": "[스토리북] 읽을 수 없는 책"
+  },
+  {
+    "itemCode": 4000136,
+    "itemName": "코코넛 열매(퀘스트)"
+  },
+  {
+    "itemCode": 4031165,
+    "itemName": "마녀의 풀 잎사귀(퀘스트)"
+  },
+  {
+    "itemCode": 1102055,
+    "itemName": "이카루스의 망토(이속)"
+  },
+  {
+    "itemCode": 4005000,
+    "itemName": "힘의 크리스탈"
+  },
+  {
+    "itemCode": 4005001,
+    "itemName": "지혜의 크리스탈"
+  },
+  {
+    "itemCode": 4005002,
+    "itemName": "민첩성의 크리스탈"
+  },
+  {
+    "itemCode": 4005003,
+    "itemName": "행운의 크리스탈"
+  },
+  {
+    "itemCode": 4005004,
+    "itemName": "어둠의 크리스탈"
+  },
+  {
+    "itemCode": 4001019,
+    "itemName": "마법석 활성화 주문서"
+  },
+  {
+    "itemCode": 4031439,
+    "itemName": "이카퀘(망토)"
+  },
+  {
+    "itemCode": 4003002,
+    "itemName": "얼음 조각"
+  },
+  {
+    "itemCode": 4003003,
+    "itemName": "요정의 날개"
+  },
+  {
+    "itemCode": 4161018,
+    "itemName": "[스토리북] 오래된 책"
+  },
+  {
+    "itemCode": 4161021,
+    "itemName": "[스토리북] 검은 구름 제조법"
+  },
+  {
+    "itemCode": 4161016,
+    "itemName": "[스토리북] 얼어붙은 얼음의 책"
+  },
+  {
+    "itemCode": 4011004,
+    "itemName": "은"
+  },
+  {
+    "itemCode": 4001111,
+    "itemName": "[스토리북] 크림슨발록의 계획서"
+  },
+  {
+    "itemCode": 4161015,
+    "itemName": "[스토리북] 타오르는 불꽃의 책"
+  },
+  {
+    "itemCode": 4001110,
+    "itemName": "[스토리북] 정체불명의 편지"
+  },
+  {
+    "itemCode": 2012002,
+    "itemName": "고목 나무의 수액"
+  },
+  {
+    "itemCode": 1002050,
+    "itemName": "오리할콘 버거넷 헬름"
+  },
+  {
+    "itemCode": 1051052,
+    "itemName": "블루 레퀴에르(여)"
+  },
+  {
+    "itemCode": 1041099,
+    "itemName": "블러드 플라티나(여)"
+  },
+  {
+    "itemCode": 1061097,
+    "itemName": "바이올렛 플라티나 바지(여)"
+  },
+  {
+    "itemCode": 1061096,
+    "itemName": "아쿠아 플라티나 바지(여)"
+  },
+  {
+    "itemCode": 1040104,
+    "itemName": "오리할콘 플라틴(남)"
+  },
+  {
+    "itemCode": 4031441,
+    "itemName": "장공퀘 (수액제외)"
+  },
+  {
+    "itemCode": 2060002,
+    "itemName": "활전용 강철화살"
+  },
+  {
+    "itemCode": 2061002,
+    "itemName": "석궁전용 강철화살"
+  },
+  {
+    "itemCode": 2040300,
+    "itemName": "귀 장식 지력 주문서 100%"
+  },
+  {
+    "itemCode": 1082015,
+    "itemName": "그린 디로스"
+  },
+  {
+    "itemCode": 1082014,
+    "itemName": "레드 디로스"
+  },
+  {
+    "itemCode": 4003005,
+    "itemName": "부드러운 깃털"
+  },
+  {
+    "itemCode": 4031442,
+    "itemName": "본 헬름 퀘"
+  },
+  {
+    "itemCode": 4031443,
+    "itemName": "본 헬름 퀘(꿀빼고)"
+  },
+  {
+    "itemCode": 5000001,
+    "itemName": "캐시 펫 (선택식)"
+  },
+  {
+    "itemCode": 2048000,
+    "itemName": "펫장비 이동속도 주문서 100%"
+  },
+  {
+    "itemCode": 1472003,
+    "itemName": "골드 티탄즈"
+  },
+  {
+    "itemCode": 2040808,
+    "itemName": "개발자주문서테스트"
+  },
+  {
+    "itemCode": 2040809,
+    "itemName": "개발자주문서테스트2"
+  },
+  {
+    "itemCode": 2022006,
+    "itemName": "떡국"
+  },
+  {
+    "itemCode": 1102011,
+    "itemName": "파란색 수호의 망토"
+  },
+  {
+    "itemCode": 1102012,
+    "itemName": "빨간색 수호의 망토"
+  },
+  {
+    "itemCode": 1102013,
+    "itemName": "흰색 수호의 망토"
+  },
+  {
+    "itemCode": 1102014,
+    "itemName": "검은색 수호의 망토"
+  },
+  {
+    "itemCode": 4031137,
+    "itemName": "스카두르 퀘"
+  },
+  {
+    "itemCode": 5180000,
+    "itemName": "생명의 물"
+  },
+  {
+    "itemCode": 4031504,
+    "itemName": "허클퀘(마법석귀환서)"
+  }
+]
